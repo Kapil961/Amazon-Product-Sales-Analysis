@@ -1,0 +1,1541 @@
+Category 1,Category 2,Adjusted P-value,Significant
+Accessories,Baby Products,1.0,False
+Accessories,Bath,1.0,False
+Accessories,Bath Rugs,0.17989666485879255,False
+Accessories,Beauty & Personal Care,0.10372054406056384,False
+Accessories,Bedding,1.0,False
+Accessories,Beverages,1.0,False
+Accessories,"Bottled Beverages, Water & Drink Mixes",0.030870329415149663,True
+Accessories,Cell Phones,8.029494863234128e-07,True
+Accessories,Cell Phones & Accessories,1.0,False
+Accessories,Clothing,0.32245283055346136,False
+Accessories,"Clothing, Shoes & Jewelry",1.0,False
+Accessories,Coffee,1.0,False
+Accessories,Computers & Accessories,2.652458767494085e-06,True
+Accessories,Diet & Sports Nutrition,0.39504272660317735,False
+Accessories,Disposable Diapers,1.0,False
+Accessories,Dogs,1.0,False
+Accessories,Electronics,0.0007887590066056348,True
+Accessories,Exercise & Fitness,1.0,False
+Accessories,Furniture,0.23514931442260445,False
+Accessories,Grocery & Gourmet Food,0.07489455596788845,False
+Accessories,Health & Household,1.0,False
+Accessories,Home & Kitchen,1.0,False
+Accessories,Home Décor Products,1.0,False
+Accessories,Household Supplies,0.04758050862732353,True
+Accessories,Insulated Beverage Containers,0.0001110344112096468,True
+Accessories,Kitchen & Dining,1.0,False
+Accessories,Kitchen Storage & Containers,0.0005878736756343364,True
+Accessories,Men,1.0,False
+Accessories,Office Products,1.0,False
+Accessories,Pants,1.0,False
+Accessories,"Patio, Lawn & Garden",0.18515173349825767,False
+Accessories,Pet Supplies,1.0,False
+Accessories,Protein,1.0,False
+Accessories,"Rugs, Pads & Protectors",1.0,False
+Accessories,Sheet & Pillowcase Sets,1.0,False
+Accessories,Sheets & Pillowcases,1.0,False
+Accessories,Shirts,1.0,False
+Accessories,Shoes,1.0,False
+Accessories,Single-Serve Capsules & Pods,1.0,False
+Accessories,Skin Care,0.06896166645940868,False
+Accessories,Small Appliances,0.7988583705348491,False
+Accessories,Sport Specific Clothing,1.0,False
+Accessories,Sports & Outdoors,1.0,False
+Accessories,Sports Nutrition,0.4177331655971556,False
+Accessories,Storage & Organization,1.0,False
+Accessories,Strength Training Equipment,1.0,False
+Accessories,Thermoses,9.965206469822276e-05,True
+Accessories,Tools & Home Improvement,1.0,False
+Accessories,Toys & Games,1.0,False
+Accessories,Tumblers,0.0006244961764006441,True
+Accessories,Video Games,1.0,False
+Accessories,"Vitamins, Minerals & Supplements",1.0,False
+Accessories,Weights & Accessories,1.0,False
+Accessories,Whey,1.0,False
+Accessories,Women,1.0,False
+Baby Products,Bath,4.285073540826897e-08,True
+Baby Products,Bath Rugs,1.338909514840917e-08,True
+Baby Products,Beauty & Personal Care,1.027344947607139e-19,True
+Baby Products,Bedding,1.0,False
+Baby Products,Beverages,2.3137448022408636e-07,True
+Baby Products,"Bottled Beverages, Water & Drink Mixes",2.4410559878629065e-10,True
+Baby Products,Cell Phones,1.0026799905619052e-07,True
+Baby Products,Cell Phones & Accessories,1.0,False
+Baby Products,Clothing,3.7324119345752636e-12,True
+Baby Products,"Clothing, Shoes & Jewelry",2.8857917742851253e-05,True
+Baby Products,Coffee,1.0,False
+Baby Products,Computers & Accessories,5.526508139475272e-08,True
+Baby Products,Diet & Sports Nutrition,5.273942070774728e-08,True
+Baby Products,Disposable Diapers,1.0,False
+Baby Products,Dogs,1.0,False
+Baby Products,Electronics,3.882415315824167e-06,True
+Baby Products,Exercise & Fitness,1.0,False
+Baby Products,Furniture,1.0,False
+Baby Products,Grocery & Gourmet Food,1.8059091597225308e-20,True
+Baby Products,Health & Household,4.1718691312697946e-19,True
+Baby Products,Home & Kitchen,1.0,False
+Baby Products,Home Décor Products,1.0,False
+Baby Products,Household Supplies,6.483732745841721e-10,True
+Baby Products,Insulated Beverage Containers,1.3293375073718847e-17,True
+Baby Products,Kitchen & Dining,1.0,False
+Baby Products,Kitchen Storage & Containers,0.0006363891593835204,True
+Baby Products,Men,0.00019627875443460814,True
+Baby Products,Office Products,1.0,False
+Baby Products,Pants,0.001506205033242045,True
+Baby Products,"Patio, Lawn & Garden",0.1679044401092083,False
+Baby Products,Pet Supplies,1.5421442016740874e-05,True
+Baby Products,Protein,0.01437155127957351,True
+Baby Products,"Rugs, Pads & Protectors",1.0,False
+Baby Products,Sheet & Pillowcase Sets,1.0,False
+Baby Products,Sheets & Pillowcases,1.0,False
+Baby Products,Shirts,1.0,False
+Baby Products,Shoes,1.0,False
+Baby Products,Single-Serve Capsules & Pods,1.0,False
+Baby Products,Skin Care,1.1369701084901062e-11,True
+Baby Products,Small Appliances,1.0,False
+Baby Products,Sport Specific Clothing,1.0,False
+Baby Products,Sports & Outdoors,1.0,False
+Baby Products,Sports Nutrition,7.476857627600457e-08,True
+Baby Products,Storage & Organization,4.360077490015367e-09,True
+Baby Products,Strength Training Equipment,1.0,False
+Baby Products,Thermoses,2.1536922298860403e-19,True
+Baby Products,Tools & Home Improvement,1.0,False
+Baby Products,Toys & Games,1.0,False
+Baby Products,Tumblers,2.369122064209868e-12,True
+Baby Products,Video Games,1.0,False
+Baby Products,"Vitamins, Minerals & Supplements",1.0,False
+Baby Products,Weights & Accessories,0.4575426922534846,False
+Baby Products,Whey,0.016435094505197614,True
+Baby Products,Women,1.0,False
+Bath,Bath Rugs,1.0,False
+Bath,Beauty & Personal Care,1.0,False
+Bath,Bedding,6.911826343439397e-09,True
+Bath,Beverages,1.0,False
+Bath,"Bottled Beverages, Water & Drink Mixes",1.0,False
+Bath,Cell Phones,2.763216536889529e-22,True
+Bath,Cell Phones & Accessories,2.5820992597617694e-10,True
+Bath,Clothing,1.0,False
+Bath,"Clothing, Shoes & Jewelry",1.0,False
+Bath,Coffee,1.0,False
+Bath,Computers & Accessories,1.893928090154692e-24,True
+Bath,Diet & Sports Nutrition,1.0,False
+Bath,Disposable Diapers,0.14584393037109217,False
+Bath,Dogs,1.0,False
+Bath,Electronics,5.41110046525288e-25,True
+Bath,Exercise & Fitness,0.001676296532299605,True
+Bath,Furniture,1.2925847245376665e-10,True
+Bath,Grocery & Gourmet Food,1.0,False
+Bath,Health & Household,1.0,False
+Bath,Home & Kitchen,5.4001854929327045e-11,True
+Bath,Home Décor Products,6.774695420612674e-06,True
+Bath,Household Supplies,1.0,False
+Bath,Insulated Beverage Containers,1.0,False
+Bath,Kitchen & Dining,1.2129146599961512e-07,True
+Bath,Kitchen Storage & Containers,9.855460084539413e-17,True
+Bath,Men,1.0,False
+Bath,Office Products,2.74096784981243e-07,True
+Bath,Pants,1.0,False
+Bath,"Patio, Lawn & Garden",2.9738105051980387e-17,True
+Bath,Pet Supplies,1.0,False
+Bath,Protein,1.0,False
+Bath,"Rugs, Pads & Protectors",1.0,False
+Bath,Sheet & Pillowcase Sets,2.9881210303585547e-09,True
+Bath,Sheets & Pillowcases,1.2827515055983504e-08,True
+Bath,Shirts,1.0,False
+Bath,Shoes,1.4379550907196129e-05,True
+Bath,Single-Serve Capsules & Pods,1.0,False
+Bath,Skin Care,1.0,False
+Bath,Small Appliances,1.156751819807818e-10,True
+Bath,Sport Specific Clothing,1.0,False
+Bath,Sports & Outdoors,1.8075234659131218e-06,True
+Bath,Sports Nutrition,1.0,False
+Bath,Storage & Organization,1.0,False
+Bath,Strength Training Equipment,1.0,False
+Bath,Thermoses,1.0,False
+Bath,Tools & Home Improvement,0.0002642354608507092,True
+Bath,Toys & Games,9.154425285513686e-05,True
+Bath,Tumblers,1.0,False
+Bath,Video Games,2.2804452208924604e-05,True
+Bath,"Vitamins, Minerals & Supplements",0.7849759736267741,False
+Bath,Weights & Accessories,1.0,False
+Bath,Whey,1.0,False
+Bath,Women,0.986651205047612,False
+Bath Rugs,Beauty & Personal Care,1.0,False
+Bath Rugs,Bedding,2.148643086393629e-09,True
+Bath Rugs,Beverages,1.0,False
+Bath Rugs,"Bottled Beverages, Water & Drink Mixes",1.0,False
+Bath Rugs,Cell Phones,1.8620979310507277e-22,True
+Bath Rugs,Cell Phones & Accessories,8.081695304162699e-11,True
+Bath Rugs,Clothing,1.0,False
+Bath Rugs,"Clothing, Shoes & Jewelry",0.15282214844864211,False
+Bath Rugs,Coffee,0.7164820447447384,False
+Bath Rugs,Computers & Accessories,5.664553982442189e-24,True
+Bath Rugs,Diet & Sports Nutrition,1.0,False
+Bath Rugs,Disposable Diapers,0.015765771069181894,True
+Bath Rugs,Dogs,0.3866065104676057,False
+Bath Rugs,Electronics,2.8629306577712947e-23,True
+Bath Rugs,Exercise & Fitness,0.0001753326991918076,True
+Bath Rugs,Furniture,1.778369973546853e-11,True
+Bath Rugs,Grocery & Gourmet Food,1.0,False
+Bath Rugs,Health & Household,1.0,False
+Bath Rugs,Home & Kitchen,8.960004174176987e-11,True
+Bath Rugs,Home Décor Products,1.0035189134007867e-06,True
+Bath Rugs,Household Supplies,1.0,False
+Bath Rugs,Insulated Beverage Containers,1.0,False
+Bath Rugs,Kitchen & Dining,3.8883184375668586e-08,True
+Bath Rugs,Kitchen Storage & Containers,2.995148105427523e-17,True
+Bath Rugs,Men,1.0,False
+Bath Rugs,Office Products,3.258015959772329e-08,True
+Bath Rugs,Pants,1.0,False
+Bath Rugs,"Patio, Lawn & Garden",7.674455773499852e-17,True
+Bath Rugs,Pet Supplies,0.8064927040550766,False
+Bath Rugs,Protein,1.0,False
+Bath Rugs,"Rugs, Pads & Protectors",0.2606333491239364,False
+Bath Rugs,Sheet & Pillowcase Sets,4.678737835975239e-10,True
+Bath Rugs,Sheets & Pillowcases,1.9440056370800762e-09,True
+Bath Rugs,Shirts,1.0,False
+Bath Rugs,Shoes,1.8330653661149216e-06,True
+Bath Rugs,Single-Serve Capsules & Pods,0.735326603021203,False
+Bath Rugs,Skin Care,1.0,False
+Bath Rugs,Small Appliances,1.9248252355684704e-11,True
+Bath Rugs,Sport Specific Clothing,1.0,False
+Bath Rugs,Sports & Outdoors,3.713874046460694e-07,True
+Bath Rugs,Sports Nutrition,1.0,False
+Bath Rugs,Storage & Organization,1.0,False
+Bath Rugs,Strength Training Equipment,1.0,False
+Bath Rugs,Thermoses,1.0,False
+Bath Rugs,Tools & Home Improvement,2.8657470026646528e-05,True
+Bath Rugs,Toys & Games,9.774726596525715e-06,True
+Bath Rugs,Tumblers,1.0,False
+Bath Rugs,Video Games,2.546815505023814e-06,True
+Bath Rugs,"Vitamins, Minerals & Supplements",0.10126571410073539,False
+Bath Rugs,Weights & Accessories,1.0,False
+Bath Rugs,Whey,1.0,False
+Bath Rugs,Women,0.10269901720210427,False
+Beauty & Personal Care,Bedding,2.104732753056915e-19,True
+Beauty & Personal Care,Beverages,1.0,False
+Beauty & Personal Care,"Bottled Beverages, Water & Drink Mixes",1.0,False
+Beauty & Personal Care,Cell Phones,2.8847299462876585e-31,True
+Beauty & Personal Care,Cell Phones & Accessories,1.2313960953503295e-19,True
+Beauty & Personal Care,Clothing,1.0,False
+Beauty & Personal Care,"Clothing, Shoes & Jewelry",5.82557726950009e-05,True
+Beauty & Personal Care,Coffee,0.3342146246220912,False
+Beauty & Personal Care,Computers & Accessories,2.8224655979485446e-38,True
+Beauty & Personal Care,Diet & Sports Nutrition,1.0,False
+Beauty & Personal Care,Disposable Diapers,0.0018085719980953702,True
+Beauty & Personal Care,Dogs,0.06291607942395956,False
+Beauty & Personal Care,Electronics,3.1127936073788604e-53,True
+Beauty & Personal Care,Exercise & Fitness,1.920631352851555e-06,True
+Beauty & Personal Care,Furniture,7.202283863574227e-15,True
+Beauty & Personal Care,Grocery & Gourmet Food,1.0,False
+Beauty & Personal Care,Health & Household,1.0,False
+Beauty & Personal Care,Home & Kitchen,3.3814235031731597e-38,True
+Beauty & Personal Care,Home Décor Products,2.870556745897518e-12,True
+Beauty & Personal Care,Household Supplies,1.0,False
+Beauty & Personal Care,Insulated Beverage Containers,1.0,False
+Beauty & Personal Care,Kitchen & Dining,2.1776607833573197e-20,True
+Beauty & Personal Care,Kitchen Storage & Containers,9.956640307916745e-24,True
+Beauty & Personal Care,Men,1.0,False
+Beauty & Personal Care,Office Products,4.8521374057737965e-11,True
+Beauty & Personal Care,Pants,1.0,False
+Beauty & Personal Care,"Patio, Lawn & Garden",1.2589832200633887e-34,True
+Beauty & Personal Care,Pet Supplies,0.0112495500857355,True
+Beauty & Personal Care,Protein,1.0,False
+Beauty & Personal Care,"Rugs, Pads & Protectors",0.1966188931112658,False
+Beauty & Personal Care,Sheet & Pillowcase Sets,1.4690855082422042e-14,True
+Beauty & Personal Care,Sheets & Pillowcases,6.88616483536395e-14,True
+Beauty & Personal Care,Shirts,1.0,False
+Beauty & Personal Care,Shoes,1.3789901372362088e-10,True
+Beauty & Personal Care,Single-Serve Capsules & Pods,0.6183093830762487,False
+Beauty & Personal Care,Skin Care,1.0,False
+Beauty & Personal Care,Small Appliances,5.312525009992627e-16,True
+Beauty & Personal Care,Sport Specific Clothing,1.0,False
+Beauty & Personal Care,Sports & Outdoors,8.185712192591549e-16,True
+Beauty & Personal Care,Sports Nutrition,1.0,False
+Beauty & Personal Care,Storage & Organization,1.0,False
+Beauty & Personal Care,Strength Training Equipment,1.0,False
+Beauty & Personal Care,Thermoses,1.0,False
+Beauty & Personal Care,Tools & Home Improvement,7.931930956230009e-08,True
+Beauty & Personal Care,Toys & Games,9.919179046595491e-08,True
+Beauty & Personal Care,Tumblers,1.0,False
+Beauty & Personal Care,Video Games,6.195914457716375e-09,True
+Beauty & Personal Care,"Vitamins, Minerals & Supplements",0.05756436201250831,False
+Beauty & Personal Care,Weights & Accessories,1.0,False
+Beauty & Personal Care,Whey,1.0,False
+Beauty & Personal Care,Women,0.004646095069433934,True
+Bedding,Beverages,3.982024930962703e-08,True
+Bedding,"Bottled Beverages, Water & Drink Mixes",3.9360801078339746e-11,True
+Bedding,Cell Phones,5.764997894886346e-06,True
+Bedding,Cell Phones & Accessories,1.0,False
+Bedding,Clothing,8.608382657483165e-13,True
+Bedding,"Clothing, Shoes & Jewelry",5.911702158266732e-06,True
+Bedding,Coffee,1.0,False
+Bedding,Computers & Accessories,8.504920735849822e-06,True
+Bedding,Diet & Sports Nutrition,8.462419503963545e-09,True
+Bedding,Disposable Diapers,1.0,False
+Bedding,Dogs,0.2940727232290489,False
+Bedding,Electronics,0.002169035383067557,True
+Bedding,Exercise & Fitness,1.0,False
+Bedding,Furniture,1.0,False
+Bedding,Grocery & Gourmet Food,4.520050850827079e-20,True
+Bedding,Health & Household,2.416383986103315e-18,True
+Bedding,Home & Kitchen,1.0,False
+Bedding,Home Décor Products,1.0,False
+Bedding,Household Supplies,1.0424293598905739e-10,True
+Bedding,Insulated Beverage Containers,2.98747119600608e-18,True
+Bedding,Kitchen & Dining,1.0,False
+Bedding,Kitchen Storage & Containers,0.01213953236182485,True
+Bedding,Men,3.080568431479348e-05,True
+Bedding,Office Products,1.0,False
+Bedding,Pants,0.00030965868053389224,True
+Bedding,"Patio, Lawn & Garden",1.0,False
+Bedding,Pet Supplies,2.909410531614283e-06,True
+Bedding,Protein,0.0032252290330943936,True
+Bedding,"Rugs, Pads & Protectors",1.0,False
+Bedding,Sheet & Pillowcase Sets,1.0,False
+Bedding,Sheets & Pillowcases,1.0,False
+Bedding,Shirts,1.0,False
+Bedding,Shoes,1.0,False
+Bedding,Single-Serve Capsules & Pods,1.0,False
+Bedding,Skin Care,2.0575699621723416e-12,True
+Bedding,Small Appliances,1.0,False
+Bedding,Sport Specific Clothing,1.0,False
+Bedding,Sports & Outdoors,1.0,False
+Bedding,Sports Nutrition,1.2027402812615988e-08,True
+Bedding,Storage & Organization,8.124923919531129e-10,True
+Bedding,Strength Training Equipment,1.0,False
+Bedding,Thermoses,6.526333813865784e-20,True
+Bedding,Tools & Home Improvement,1.0,False
+Bedding,Toys & Games,1.0,False
+Bedding,Tumblers,3.8264782612900197e-13,True
+Bedding,Video Games,1.0,False
+Bedding,"Vitamins, Minerals & Supplements",1.0,False
+Bedding,Weights & Accessories,0.12162974167653569,False
+Bedding,Whey,0.0038025587212229153,True
+Bedding,Women,0.4700621776793955,False
+Beverages,"Bottled Beverages, Water & Drink Mixes",1.0,False
+Beverages,Cell Phones,9.693897261744063e-22,True
+Beverages,Cell Phones & Accessories,1.5887689807871871e-09,True
+Beverages,Clothing,1.0,False
+Beverages,"Clothing, Shoes & Jewelry",1.0,False
+Beverages,Coffee,1.0,False
+Beverages,Computers & Accessories,1.1315589448361213e-24,True
+Beverages,Diet & Sports Nutrition,1.0,False
+Beverages,Disposable Diapers,1.0,False
+Beverages,Dogs,1.0,False
+Beverages,Electronics,2.6627421108874792e-27,True
+Beverages,Exercise & Fitness,0.02552385172233662,True
+Beverages,Furniture,1.8189254443139136e-09,True
+Beverages,Grocery & Gourmet Food,1.0,False
+Beverages,Health & Household,1.0,False
+Beverages,Home & Kitchen,1.5658525499517268e-11,True
+Beverages,Home Décor Products,8.901496324575272e-05,True
+Beverages,Household Supplies,1.0,False
+Beverages,Insulated Beverage Containers,0.16904440861125378,False
+Beverages,Kitchen & Dining,6.026480773728852e-07,True
+Beverages,Kitchen Storage & Containers,7.309987848470921e-16,True
+Beverages,Men,1.0,False
+Beverages,Office Products,4.166294016809428e-06,True
+Beverages,Pants,1.0,False
+Beverages,"Patio, Lawn & Garden",1.2231852644858851e-17,True
+Beverages,Pet Supplies,1.0,False
+Beverages,Protein,1.0,False
+Beverages,"Rugs, Pads & Protectors",1.0,False
+Beverages,Sheet & Pillowcase Sets,3.827249730369854e-08,True
+Beverages,Sheets & Pillowcases,1.6820963286842742e-07,True
+Beverages,Shirts,1.0,False
+Beverages,Shoes,0.00021321953280059778,True
+Beverages,Single-Serve Capsules & Pods,1.0,False
+Beverages,Skin Care,1.0,False
+Beverages,Small Appliances,1.419427877063641e-09,True
+Beverages,Sport Specific Clothing,1.0,False
+Beverages,Sports & Outdoors,1.6402628346133184e-05,True
+Beverages,Sports Nutrition,1.0,False
+Beverages,Storage & Organization,1.0,False
+Beverages,Strength Training Equipment,1.0,False
+Beverages,Thermoses,0.16058762774102842,False
+Beverages,Tools & Home Improvement,0.004151987475898809,True
+Beverages,Toys & Games,0.0013979818764511664,True
+Beverages,Tumblers,0.6012772218110064,False
+Beverages,Video Games,0.00035501848614693783,True
+Beverages,"Vitamins, Minerals & Supplements",1.0,False
+Beverages,Weights & Accessories,1.0,False
+Beverages,Whey,1.0,False
+Beverages,Women,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Cell Phones,2.1386128069803673e-24,True
+"Bottled Beverages, Water & Drink Mixes",Cell Phones & Accessories,1.4772261599894884e-12,True
+"Bottled Beverages, Water & Drink Mixes",Clothing,1.0,False
+"Bottled Beverages, Water & Drink Mixes","Clothing, Shoes & Jewelry",0.011687204250213632,True
+"Bottled Beverages, Water & Drink Mixes",Coffee,0.11709293432311715,False
+"Bottled Beverages, Water & Drink Mixes",Computers & Accessories,3.328353483865028e-26,True
+"Bottled Beverages, Water & Drink Mixes",Diet & Sports Nutrition,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Disposable Diapers,0.0018033521876733279,True
+"Bottled Beverages, Water & Drink Mixes",Dogs,0.050323152797472875,False
+"Bottled Beverages, Water & Drink Mixes",Electronics,7.026795972270413e-26,True
+"Bottled Beverages, Water & Drink Mixes",Exercise & Fitness,1.3131732308311073e-05,True
+"Bottled Beverages, Water & Drink Mixes",Furniture,7.245323737230688e-13,True
+"Bottled Beverages, Water & Drink Mixes",Grocery & Gourmet Food,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Health & Household,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Home & Kitchen,7.237035636750253e-13,True
+"Bottled Beverages, Water & Drink Mixes",Home Décor Products,3.4577546502378935e-08,True
+"Bottled Beverages, Water & Drink Mixes",Household Supplies,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Insulated Beverage Containers,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Kitchen & Dining,6.967222498610615e-10,True
+"Bottled Beverages, Water & Drink Mixes",Kitchen Storage & Containers,5.639347899878743e-19,True
+"Bottled Beverages, Water & Drink Mixes",Men,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Office Products,1.6782783019572638e-09,True
+"Bottled Beverages, Water & Drink Mixes",Pants,1.0,False
+"Bottled Beverages, Water & Drink Mixes","Patio, Lawn & Garden",4.961382665875912e-19,True
+"Bottled Beverages, Water & Drink Mixes",Pet Supplies,0.08354823062655795,False
+"Bottled Beverages, Water & Drink Mixes",Protein,1.0,False
+"Bottled Beverages, Water & Drink Mixes","Rugs, Pads & Protectors",0.04923778872639272,True
+"Bottled Beverages, Water & Drink Mixes",Sheet & Pillowcase Sets,1.5716210512930392e-11,True
+"Bottled Beverages, Water & Drink Mixes",Sheets & Pillowcases,6.760842860883534e-11,True
+"Bottled Beverages, Water & Drink Mixes",Shirts,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Shoes,7.844594349425332e-08,True
+"Bottled Beverages, Water & Drink Mixes",Single-Serve Capsules & Pods,0.14525886450890066,False
+"Bottled Beverages, Water & Drink Mixes",Skin Care,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Small Appliances,6.083774587356327e-13,True
+"Bottled Beverages, Water & Drink Mixes",Sport Specific Clothing,0.23741291726744473,False
+"Bottled Beverages, Water & Drink Mixes",Sports & Outdoors,9.18661204280086e-09,True
+"Bottled Beverages, Water & Drink Mixes",Sports Nutrition,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Storage & Organization,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Strength Training Equipment,0.4914102233570256,False
+"Bottled Beverages, Water & Drink Mixes",Thermoses,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Tools & Home Improvement,1.7755542795416872e-06,True
+"Bottled Beverages, Water & Drink Mixes",Toys & Games,6.888015572483565e-07,True
+"Bottled Beverages, Water & Drink Mixes",Tumblers,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Video Games,1.4836487131701984e-07,True
+"Bottled Beverages, Water & Drink Mixes","Vitamins, Minerals & Supplements",0.01724100087564599,True
+"Bottled Beverages, Water & Drink Mixes",Weights & Accessories,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Whey,1.0,False
+"Bottled Beverages, Water & Drink Mixes",Women,0.010755713153879996,True
+Cell Phones,Cell Phones & Accessories,0.001687163071674407,True
+Cell Phones,Clothing,2.1978999135918537e-26,True
+Cell Phones,"Clothing, Shoes & Jewelry",1.175415646427333e-19,True
+Cell Phones,Coffee,7.158381312212229e-11,True
+Cell Phones,Computers & Accessories,1.0,False
+Cell Phones,Diet & Sports Nutrition,7.760448774410144e-22,True
+Cell Phones,Disposable Diapers,1.209537324642165e-07,True
+Cell Phones,Dogs,4.711337015857723e-13,True
+Cell Phones,Electronics,1.0,False
+Cell Phones,Exercise & Fitness,1.0065230806989438e-05,True
+Cell Phones,Furniture,1.0,False
+Cell Phones,Grocery & Gourmet Food,9.487144142974052e-32,True
+Cell Phones,Health & Household,1.1494824711565406e-29,True
+Cell Phones,Home & Kitchen,3.1754592910508586e-09,True
+Cell Phones,Home Décor Products,6.719472520224886e-07,True
+Cell Phones,Household Supplies,6.264221098720668e-24,True
+Cell Phones,Insulated Beverage Containers,8.106201173475056e-32,True
+Cell Phones,Kitchen & Dining,5.135795051269534e-09,True
+Cell Phones,Kitchen Storage & Containers,1.0,False
+Cell Phones,Men,1.1866121395309405e-18,True
+Cell Phones,Office Products,0.3064567870129337,False
+Cell Phones,Pants,1.8861538191804806e-15,True
+Cell Phones,"Patio, Lawn & Garden",0.1778875974779923,False
+Cell Phones,Pet Supplies,5.884970382370313e-20,True
+Cell Phones,Protein,5.723419044031801e-14,True
+Cell Phones,"Rugs, Pads & Protectors",3.238165971550384e-06,True
+Cell Phones,Sheet & Pillowcase Sets,0.34703505414099894,False
+Cell Phones,Sheets & Pillowcases,0.08927962813588694,False
+Cell Phones,Shirts,8.723866970652111e-10,True
+Cell Phones,Shoes,1.136401031371843e-05,True
+Cell Phones,Single-Serve Capsules & Pods,8.605076044702496e-08,True
+Cell Phones,Skin Care,5.103797248823566e-26,True
+Cell Phones,Small Appliances,1.0,False
+Cell Phones,Sport Specific Clothing,5.971394183559071e-07,True
+Cell Phones,Sports & Outdoors,9.694871053576017e-09,True
+Cell Phones,Sports Nutrition,1.2432803619853214e-21,True
+Cell Phones,Storage & Organization,1.8411414418725387e-23,True
+Cell Phones,Strength Training Equipment,1.1799869979381328e-08,True
+Cell Phones,Thermoses,2.8791059801917512e-33,True
+Cell Phones,Tools & Home Improvement,2.2054748857036317e-05,True
+Cell Phones,Toys & Games,0.0030439434536882323,True
+Cell Phones,Tumblers,2.892323746101675e-26,True
+Cell Phones,Video Games,0.0016256686080871742,True
+Cell Phones,"Vitamins, Minerals & Supplements",7.474782793263862e-06,True
+Cell Phones,Weights & Accessories,1.464763390768745e-11,True
+Cell Phones,Whey,1.0689924702977292e-13,True
+Cell Phones,Women,5.32474310336067e-13,True
+Cell Phones & Accessories,Clothing,4.8889138732541334e-14,True
+Cell Phones & Accessories,"Clothing, Shoes & Jewelry",2.737308363041619e-07,True
+Cell Phones & Accessories,Coffee,0.19140210451988632,False
+Cell Phones & Accessories,Computers & Accessories,0.006346067955356279,True
+Cell Phones & Accessories,Diet & Sports Nutrition,3.1866108120449126e-10,True
+Cell Phones & Accessories,Disposable Diapers,1.0,False
+Cell Phones & Accessories,Dogs,0.015753817216519004,True
+Cell Phones & Accessories,Electronics,1.0,False
+Cell Phones & Accessories,Exercise & Fitness,1.0,False
+Cell Phones & Accessories,Furniture,1.0,False
+Cell Phones & Accessories,Grocery & Gourmet Food,3.2670015111233876e-20,True
+Cell Phones & Accessories,Health & Household,3.098200879219785e-18,True
+Cell Phones & Accessories,Home & Kitchen,1.0,False
+Cell Phones & Accessories,Home Décor Products,1.0,False
+Cell Phones & Accessories,Household Supplies,3.904277787054781e-12,True
+Cell Phones & Accessories,Insulated Beverage Containers,1.7035384006579953e-19,True
+Cell Phones & Accessories,Kitchen & Dining,1.0,False
+Cell Phones & Accessories,Kitchen Storage & Containers,0.6868058301061394,False
+Cell Phones & Accessories,Men,1.1132518155208431e-06,True
+Cell Phones & Accessories,Office Products,1.0,False
+Cell Phones & Accessories,Pants,1.766628837045416e-05,True
+Cell Phones & Accessories,"Patio, Lawn & Garden",1.0,False
+Cell Phones & Accessories,Pet Supplies,1.2559441185413552e-07,True
+Cell Phones & Accessories,Protein,0.00021199324273763032,True
+Cell Phones & Accessories,"Rugs, Pads & Protectors",1.0,False
+Cell Phones & Accessories,Sheet & Pillowcase Sets,1.0,False
+Cell Phones & Accessories,Sheets & Pillowcases,1.0,False
+Cell Phones & Accessories,Shirts,0.14915049499888086,False
+Cell Phones & Accessories,Shoes,1.0,False
+Cell Phones & Accessories,Single-Serve Capsules & Pods,1.0,False
+Cell Phones & Accessories,Skin Care,8.814485260245097e-14,True
+Cell Phones & Accessories,Small Appliances,1.0,False
+Cell Phones & Accessories,Sport Specific Clothing,1.0,False
+Cell Phones & Accessories,Sports & Outdoors,1.0,False
+Cell Phones & Accessories,Sports Nutrition,4.5537849764802734e-10,True
+Cell Phones & Accessories,Storage & Organization,3.562654488244408e-11,True
+Cell Phones & Accessories,Strength Training Equipment,1.0,False
+Cell Phones & Accessories,Thermoses,5.4187104127024696e-21,True
+Cell Phones & Accessories,Tools & Home Improvement,1.0,False
+Cell Phones & Accessories,Toys & Games,1.0,False
+Cell Phones & Accessories,Tumblers,1.4462129574910974e-14,True
+Cell Phones & Accessories,Video Games,1.0,False
+Cell Phones & Accessories,"Vitamins, Minerals & Supplements",1.0,False
+Cell Phones & Accessories,Weights & Accessories,0.010493516425765875,True
+Cell Phones & Accessories,Whey,0.0002633592460514949,True
+Cell Phones & Accessories,Women,0.02433847504996647,True
+Clothing,"Clothing, Shoes & Jewelry",0.04698154902939134,True
+Clothing,Coffee,1.0,False
+Clothing,Computers & Accessories,2.9747256621029537e-30,True
+Clothing,Diet & Sports Nutrition,1.0,False
+Clothing,Disposable Diapers,0.01570333603715803,True
+Clothing,Dogs,0.4922619127784299,False
+Clothing,Electronics,1.4809441809079086e-34,True
+Clothing,Exercise & Fitness,6.515023840815274e-05,True
+Clothing,Furniture,1.0603991370262348e-12,True
+Clothing,Grocery & Gourmet Food,1.0,False
+Clothing,Health & Household,1.0,False
+Clothing,Home & Kitchen,4.9840268460985465e-18,True
+Clothing,Home Décor Products,1.7212767926188314e-08,True
+Clothing,Household Supplies,1.0,False
+Clothing,Insulated Beverage Containers,1.0,False
+Clothing,Kitchen & Dining,7.303919912145523e-12,True
+Clothing,Kitchen Storage & Containers,5.570428924729064e-20,True
+Clothing,Men,1.0,False
+Clothing,Office Products,4.131206732829959e-09,True
+Clothing,Pants,1.0,False
+Clothing,"Patio, Lawn & Garden",1.3809644271740874e-23,True
+Clothing,Pet Supplies,0.6305606930431977,False
+Clothing,Protein,1.0,False
+Clothing,"Rugs, Pads & Protectors",0.5095783304241797,False
+Clothing,Sheet & Pillowcase Sets,1.0879560475088217e-11,True
+Clothing,Sheets & Pillowcases,5.0647558286470366e-11,True
+Clothing,Shirts,1.0,False
+Clothing,Shoes,9.41443668788121e-08,True
+Clothing,Single-Serve Capsules & Pods,1.0,False
+Clothing,Skin Care,1.0,False
+Clothing,Small Appliances,3.722507351075474e-13,True
+Clothing,Sport Specific Clothing,1.0,False
+Clothing,Sports & Outdoors,7.64688157172102e-10,True
+Clothing,Sports Nutrition,1.0,False
+Clothing,Storage & Organization,1.0,False
+Clothing,Strength Training Equipment,1.0,False
+Clothing,Thermoses,1.0,False
+Clothing,Tools & Home Improvement,6.016377779403009e-06,True
+Clothing,Toys & Games,3.1677458603500483e-06,True
+Clothing,Tumblers,1.0,False
+Clothing,Video Games,4.572305353521905e-07,True
+Clothing,"Vitamins, Minerals & Supplements",0.17881149547220873,False
+Clothing,Weights & Accessories,1.0,False
+Clothing,Whey,1.0,False
+Clothing,Women,0.08486701218757951,False
+"Clothing, Shoes & Jewelry",Coffee,1.0,False
+"Clothing, Shoes & Jewelry",Computers & Accessories,1.5471501786329847e-23,True
+"Clothing, Shoes & Jewelry",Diet & Sports Nutrition,0.4318396304569117,False
+"Clothing, Shoes & Jewelry",Disposable Diapers,1.0,False
+"Clothing, Shoes & Jewelry",Dogs,1.0,False
+"Clothing, Shoes & Jewelry",Electronics,4.613317092741158e-31,True
+"Clothing, Shoes & Jewelry",Exercise & Fitness,1.0,False
+"Clothing, Shoes & Jewelry",Furniture,4.1103847997149776e-07,True
+"Clothing, Shoes & Jewelry",Grocery & Gourmet Food,1.9950795910255312e-05,True
+"Clothing, Shoes & Jewelry",Health & Household,0.0027960639956052372,True
+"Clothing, Shoes & Jewelry",Home & Kitchen,8.822326321073753e-14,True
+"Clothing, Shoes & Jewelry",Home Décor Products,0.024538398042958206,True
+"Clothing, Shoes & Jewelry",Household Supplies,0.022146367996432385,True
+"Clothing, Shoes & Jewelry",Insulated Beverage Containers,4.0587544153999977e-07,True
+"Clothing, Shoes & Jewelry",Kitchen & Dining,5.9631772903159225e-05,True
+"Clothing, Shoes & Jewelry",Kitchen Storage & Containers,1.5660512278646202e-13,True
+"Clothing, Shoes & Jewelry",Men,1.0,False
+"Clothing, Shoes & Jewelry",Office Products,0.000801126644996521,True
+"Clothing, Shoes & Jewelry",Pants,1.0,False
+"Clothing, Shoes & Jewelry","Patio, Lawn & Garden",3.1654083906335614e-17,True
+"Clothing, Shoes & Jewelry",Pet Supplies,1.0,False
+"Clothing, Shoes & Jewelry",Protein,1.0,False
+"Clothing, Shoes & Jewelry","Rugs, Pads & Protectors",1.0,False
+"Clothing, Shoes & Jewelry",Sheet & Pillowcase Sets,9.72099358876773e-06,True
+"Clothing, Shoes & Jewelry",Sheets & Pillowcases,4.2647958731309796e-05,True
+"Clothing, Shoes & Jewelry",Shirts,1.0,False
+"Clothing, Shoes & Jewelry",Shoes,0.05090031411944599,False
+"Clothing, Shoes & Jewelry",Single-Serve Capsules & Pods,1.0,False
+"Clothing, Shoes & Jewelry",Skin Care,0.011869769892451516,True
+"Clothing, Shoes & Jewelry",Small Appliances,3.592384260228754e-07,True
+"Clothing, Shoes & Jewelry",Sport Specific Clothing,1.0,False
+"Clothing, Shoes & Jewelry",Sports & Outdoors,0.0039329396757683465,True
+"Clothing, Shoes & Jewelry",Sports Nutrition,0.4855745332546506,False
+"Clothing, Shoes & Jewelry",Storage & Organization,1.0,False
+"Clothing, Shoes & Jewelry",Strength Training Equipment,1.0,False
+"Clothing, Shoes & Jewelry",Thermoses,7.207543846865783e-08,True
+"Clothing, Shoes & Jewelry",Tools & Home Improvement,0.6415995301729702,False
+"Clothing, Shoes & Jewelry",Toys & Games,0.1816797488406878,False
+"Clothing, Shoes & Jewelry",Tumblers,0.00010775127525609647,True
+"Clothing, Shoes & Jewelry",Video Games,0.05988269226492276,False
+"Clothing, Shoes & Jewelry","Vitamins, Minerals & Supplements",1.0,False
+"Clothing, Shoes & Jewelry",Weights & Accessories,1.0,False
+"Clothing, Shoes & Jewelry",Whey,1.0,False
+"Clothing, Shoes & Jewelry",Women,1.0,False
+Coffee,Computers & Accessories,5.85522397393319e-11,True
+Coffee,Diet & Sports Nutrition,1.0,False
+Coffee,Disposable Diapers,1.0,False
+Coffee,Dogs,1.0,False
+Coffee,Electronics,1.0387944966365982e-08,True
+Coffee,Exercise & Fitness,1.0,False
+Coffee,Furniture,0.00222216547706439,True
+Coffee,Grocery & Gourmet Food,0.23208030129001025,False
+Coffee,Health & Household,1.0,False
+Coffee,Home & Kitchen,1.0,False
+Coffee,Home Décor Products,1.0,False
+Coffee,Household Supplies,0.18317101563162175,False
+Coffee,Insulated Beverage Containers,0.0002710930251651354,True
+Coffee,Kitchen & Dining,1.0,False
+Coffee,Kitchen Storage & Containers,4.6808574603868503e-07,True
+Coffee,Men,1.0,False
+Coffee,Office Products,0.4977334264061791,False
+Coffee,Pants,1.0,False
+Coffee,"Patio, Lawn & Garden",9.777006475297991e-05,True
+Coffee,Pet Supplies,1.0,False
+Coffee,Protein,1.0,False
+Coffee,"Rugs, Pads & Protectors",1.0,False
+Coffee,Sheet & Pillowcase Sets,0.08051166792082316,False
+Coffee,Sheets & Pillowcases,0.22682080045698058,False
+Coffee,Shirts,1.0,False
+Coffee,Shoes,1.0,False
+Coffee,Single-Serve Capsules & Pods,1.0,False
+Coffee,Skin Care,0.2576404782187619,False
+Coffee,Small Appliances,0.006975378634272677,True
+Coffee,Sport Specific Clothing,1.0,False
+Coffee,Sports & Outdoors,1.0,False
+Coffee,Sports Nutrition,1.0,False
+Coffee,Storage & Organization,1.0,False
+Coffee,Strength Training Equipment,1.0,False
+Coffee,Thermoses,0.00021637214264066934,True
+Coffee,Tools & Home Improvement,1.0,False
+Coffee,Toys & Games,1.0,False
+Coffee,Tumblers,0.0021290536896426755,True
+Coffee,Video Games,1.0,False
+Coffee,"Vitamins, Minerals & Supplements",1.0,False
+Coffee,Weights & Accessories,1.0,False
+Coffee,Whey,1.0,False
+Coffee,Women,1.0,False
+Computers & Accessories,Diet & Sports Nutrition,2.4494042463725458e-23,True
+Computers & Accessories,Disposable Diapers,2.571485566243232e-07,True
+Computers & Accessories,Dogs,8.780013713411618e-14,True
+Computers & Accessories,Electronics,1.0,False
+Computers & Accessories,Exercise & Fitness,3.0957141410981085e-05,True
+Computers & Accessories,Furniture,1.0,False
+Computers & Accessories,Grocery & Gourmet Food,5.919878560766163e-39,True
+Computers & Accessories,Health & Household,3.14555058540748e-37,True
+Computers & Accessories,Home & Kitchen,2.525632690287005e-10,True
+Computers & Accessories,Home Décor Products,9.12675794821917e-07,True
+Computers & Accessories,Household Supplies,1.1471277625306315e-25,True
+Computers & Accessories,Insulated Beverage Containers,1.8610374844029933e-35,True
+Computers & Accessories,Kitchen & Dining,1.1538391524786717e-09,True
+Computers & Accessories,Kitchen Storage & Containers,1.0,False
+Computers & Accessories,Men,5.257752905925133e-21,True
+Computers & Accessories,Office Products,1.0,False
+Computers & Accessories,Pants,1.2509258326060812e-15,True
+Computers & Accessories,"Patio, Lawn & Garden",0.9104085527384626,False
+Computers & Accessories,Pet Supplies,1.5282173529970494e-23,True
+Computers & Accessories,Protein,5.63653712490685e-14,True
+Computers & Accessories,"Rugs, Pads & Protectors",1.2528556315684923e-05,True
+Computers & Accessories,Sheet & Pillowcase Sets,1.0,False
+Computers & Accessories,Sheets & Pillowcases,0.4701741973004576,False
+Computers & Accessories,Shirts,2.1060606780151315e-09,True
+Computers & Accessories,Shoes,2.8335562697556138e-05,True
+Computers & Accessories,Single-Serve Capsules & Pods,2.425205062793083e-07,True
+Computers & Accessories,Skin Care,6.357193395238959e-29,True
+Computers & Accessories,Small Appliances,1.0,False
+Computers & Accessories,Sport Specific Clothing,2.1423278921227344e-06,True
+Computers & Accessories,Sports & Outdoors,3.632679392365355e-09,True
+Computers & Accessories,Sports Nutrition,4.5886963905052747e-23,True
+Computers & Accessories,Storage & Organization,1.090978043754e-26,True
+Computers & Accessories,Strength Training Equipment,2.852123490961501e-08,True
+Computers & Accessories,Thermoses,9.354150263368072e-38,True
+Computers & Accessories,Tools & Home Improvement,6.939909542199805e-05,True
+Computers & Accessories,Toys & Games,0.014822727492952737,True
+Computers & Accessories,Tumblers,8.968788683627997e-28,True
+Computers & Accessories,Video Games,0.007476483221065432,True
+Computers & Accessories,"Vitamins, Minerals & Supplements",2.9766411185895157e-05,True
+Computers & Accessories,Weights & Accessories,2.4762409639986317e-11,True
+Computers & Accessories,Whey,1.2588703811862148e-13,True
+Computers & Accessories,Women,7.226236942346486e-14,True
+Diet & Sports Nutrition,Disposable Diapers,0.039892100281255706,True
+Diet & Sports Nutrition,Dogs,0.9282593681201583,False
+Diet & Sports Nutrition,Electronics,1.2145562815772348e-22,True
+Diet & Sports Nutrition,Exercise & Fitness,0.000507615443867487,True
+Diet & Sports Nutrition,Furniture,6.070589519068044e-11,True
+Diet & Sports Nutrition,Grocery & Gourmet Food,1.0,False
+Diet & Sports Nutrition,Health & Household,1.0,False
+Diet & Sports Nutrition,Home & Kitchen,3.845834616962962e-10,True
+Diet & Sports Nutrition,Home Décor Products,3.526765289360967e-06,True
+Diet & Sports Nutrition,Household Supplies,1.0,False
+Diet & Sports Nutrition,Insulated Beverage Containers,1.0,False
+Diet & Sports Nutrition,Kitchen & Dining,1.5348737495996137e-07,True
+Diet & Sports Nutrition,Kitchen Storage & Containers,1.1786103746309733e-16,True
+Diet & Sports Nutrition,Men,1.0,False
+Diet & Sports Nutrition,Office Products,1.0493453665122726e-07,True
+Diet & Sports Nutrition,Pants,1.0,False
+Diet & Sports Nutrition,"Patio, Lawn & Garden",3.31981345433885e-16,True
+Diet & Sports Nutrition,Pet Supplies,1.0,False
+Diet & Sports Nutrition,Protein,1.0,False
+Diet & Sports Nutrition,"Rugs, Pads & Protectors",0.5525629416436392,False
+Diet & Sports Nutrition,Sheet & Pillowcase Sets,1.6608280360749437e-09,True
+Diet & Sports Nutrition,Sheets & Pillowcases,6.847549939707779e-09,True
+Diet & Sports Nutrition,Shirts,1.0,False
+Diet & Sports Nutrition,Shoes,6.144882031153586e-06,True
+Diet & Sports Nutrition,Single-Serve Capsules & Pods,1.0,False
+Diet & Sports Nutrition,Skin Care,1.0,False
+Diet & Sports Nutrition,Small Appliances,6.924282124519195e-11,True
+Diet & Sports Nutrition,Sport Specific Clothing,1.0,False
+Diet & Sports Nutrition,Sports & Outdoors,1.3910775371179477e-06,True
+Diet & Sports Nutrition,Sports Nutrition,1.0,False
+Diet & Sports Nutrition,Storage & Organization,1.0,False
+Diet & Sports Nutrition,Strength Training Equipment,1.0,False
+Diet & Sports Nutrition,Thermoses,1.0,False
+Diet & Sports Nutrition,Tools & Home Improvement,8.753644558679736e-05,True
+Diet & Sports Nutrition,Toys & Games,2.8892200801640195e-05,True
+Diet & Sports Nutrition,Tumblers,1.0,False
+Diet & Sports Nutrition,Video Games,7.926303203030666e-06,True
+Diet & Sports Nutrition,"Vitamins, Minerals & Supplements",0.22340013593860475,False
+Diet & Sports Nutrition,Weights & Accessories,1.0,False
+Diet & Sports Nutrition,Whey,1.0,False
+Diet & Sports Nutrition,Women,0.26540222586210455,False
+Disposable Diapers,Dogs,1.0,False
+Disposable Diapers,Electronics,8.101744151877059e-05,True
+Disposable Diapers,Exercise & Fitness,1.0,False
+Disposable Diapers,Furniture,0.16820201900257267,False
+Disposable Diapers,Grocery & Gourmet Food,0.0011390506760249517,True
+Disposable Diapers,Health & Household,0.03830422135299676,True
+Disposable Diapers,Home & Kitchen,1.0,False
+Disposable Diapers,Home Décor Products,1.0,False
+Disposable Diapers,Household Supplies,0.0030689813869704307,True
+Disposable Diapers,Insulated Beverage Containers,1.1930699607209885e-06,True
+Disposable Diapers,Kitchen & Dining,1.0,False
+Disposable Diapers,Kitchen Storage & Containers,0.00020063800202547934,True
+Disposable Diapers,Men,1.0,False
+Disposable Diapers,Office Products,1.0,False
+Disposable Diapers,Pants,1.0,False
+Disposable Diapers,"Patio, Lawn & Garden",0.06920859855207975,False
+Disposable Diapers,Pet Supplies,1.0,False
+Disposable Diapers,Protein,1.0,False
+Disposable Diapers,"Rugs, Pads & Protectors",1.0,False
+Disposable Diapers,Sheet & Pillowcase Sets,1.0,False
+Disposable Diapers,Sheets & Pillowcases,1.0,False
+Disposable Diapers,Shirts,1.0,False
+Disposable Diapers,Shoes,1.0,False
+Disposable Diapers,Single-Serve Capsules & Pods,1.0,False
+Disposable Diapers,Skin Care,0.0031512595352354376,True
+Disposable Diapers,Small Appliances,0.5802591963635076,False
+Disposable Diapers,Sport Specific Clothing,1.0,False
+Disposable Diapers,Sports & Outdoors,1.0,False
+Disposable Diapers,Sports Nutrition,0.04362094255357741,True
+Disposable Diapers,Storage & Organization,0.3085361950113509,False
+Disposable Diapers,Strength Training Equipment,1.0,False
+Disposable Diapers,Thermoses,7.410971678068356e-07,True
+Disposable Diapers,Tools & Home Improvement,1.0,False
+Disposable Diapers,Toys & Games,1.0,False
+Disposable Diapers,Tumblers,2.3732302596176383e-05,True
+Disposable Diapers,Video Games,1.0,False
+Disposable Diapers,"Vitamins, Minerals & Supplements",1.0,False
+Disposable Diapers,Weights & Accessories,1.0,False
+Disposable Diapers,Whey,1.0,False
+Disposable Diapers,Women,1.0,False
+Dogs,Electronics,2.448133758013762e-12,True
+Dogs,Exercise & Fitness,1.0,False
+Dogs,Furniture,0.00026955888348153027,True
+Dogs,Grocery & Gourmet Food,0.03918978208943634,True
+Dogs,Health & Household,1.0,False
+Dogs,Home & Kitchen,0.18240152264382056,False
+Dogs,Home Décor Products,1.0,False
+Dogs,Household Supplies,0.0833383241853833,False
+Dogs,Insulated Beverage Containers,3.882668612899065e-05,True
+Dogs,Kitchen & Dining,1.0,False
+Dogs,Kitchen Storage & Containers,1.2173537230613953e-08,True
+Dogs,Men,1.0,False
+Dogs,Office Products,0.11378684148336483,False
+Dogs,Pants,1.0,False
+Dogs,"Patio, Lawn & Garden",6.53458236426496e-07,True
+Dogs,Pet Supplies,1.0,False
+Dogs,Protein,1.0,False
+Dogs,"Rugs, Pads & Protectors",1.0,False
+Dogs,Sheet & Pillowcase Sets,0.010858032832526057,True
+Dogs,Sheets & Pillowcases,0.03509062958679759,True
+Dogs,Shirts,1.0,False
+Dogs,Shoes,1.0,False
+Dogs,Single-Serve Capsules & Pods,1.0,False
+Dogs,Skin Care,0.09652868005731426,False
+Dogs,Small Appliances,0.0007085512185455586,True
+Dogs,Sport Specific Clothing,1.0,False
+Dogs,Sports & Outdoors,1.0,False
+Dogs,Sports Nutrition,0.998086853918247,False
+Dogs,Storage & Organization,1.0,False
+Dogs,Strength Training Equipment,1.0,False
+Dogs,Thermoses,2.3285842612823514e-05,True
+Dogs,Tools & Home Improvement,1.0,False
+Dogs,Toys & Games,1.0,False
+Dogs,Tumblers,0.0007066071504914617,True
+Dogs,Video Games,1.0,False
+Dogs,"Vitamins, Minerals & Supplements",1.0,False
+Dogs,Weights & Accessories,1.0,False
+Dogs,Whey,1.0,False
+Dogs,Women,1.0,False
+Electronics,Exercise & Fitness,0.009940801594689259,True
+Electronics,Furniture,1.0,False
+Electronics,Grocery & Gourmet Food,1.4535935356517986e-54,True
+Electronics,Health & Household,3.034255828106629e-57,True
+Electronics,Home & Kitchen,6.595519993986672e-11,True
+Electronics,Home Décor Products,0.0002236281892151725,True
+Electronics,Household Supplies,3.001491803228157e-25,True
+Electronics,Insulated Beverage Containers,3.712432419303986e-38,True
+Electronics,Kitchen & Dining,1.4184233891839618e-08,True
+Electronics,Kitchen Storage & Containers,1.0,False
+Electronics,Men,1.1820063625700139e-22,True
+Electronics,Office Products,1.0,False
+Electronics,Pants,2.103114597566299e-13,True
+Electronics,"Patio, Lawn & Garden",1.0,False
+Electronics,Pet Supplies,2.3859977170129904e-29,True
+Electronics,Protein,1.2449211501845463e-11,True
+Electronics,"Rugs, Pads & Protectors",0.0032728957941851374,True
+Electronics,Sheet & Pillowcase Sets,1.0,False
+Electronics,Sheets & Pillowcases,1.0,False
+Electronics,Shirts,6.50438499131507e-07,True
+Electronics,Shoes,0.009515635725197126,True
+Electronics,Single-Serve Capsules & Pods,7.562809013014982e-05,True
+Electronics,Skin Care,1.1176581135702966e-30,True
+Electronics,Small Appliances,1.0,False
+Electronics,Sport Specific Clothing,0.0005948890921728572,True
+Electronics,Sports & Outdoors,1.486001157508987e-07,True
+Electronics,Sports Nutrition,2.873252542592972e-22,True
+Electronics,Storage & Organization,8.889775826948913e-30,True
+Electronics,Strength Training Equipment,8.947835018316313e-06,True
+Electronics,Thermoses,2.4875616951493254e-42,True
+Electronics,Tools & Home Improvement,0.022358516204190694,True
+Electronics,Toys & Games,1.0,False
+Electronics,Tumblers,6.85767043880063e-27,True
+Electronics,Video Games,1.0,False
+Electronics,"Vitamins, Minerals & Supplements",0.007567382113218461,True
+Electronics,Weights & Accessories,7.129485245897616e-09,True
+Electronics,Whey,3.093228499908423e-11,True
+Electronics,Women,1.0881090479917013e-12,True
+Exercise & Fitness,Furniture,1.0,False
+Exercise & Fitness,Grocery & Gourmet Food,1.0538353871587133e-06,True
+Exercise & Fitness,Health & Household,6.40705896872993e-05,True
+Exercise & Fitness,Home & Kitchen,1.0,False
+Exercise & Fitness,Home Décor Products,1.0,False
+Exercise & Fitness,Household Supplies,2.472494713868925e-05,True
+Exercise & Fitness,Insulated Beverage Containers,1.5937793133560162e-09,True
+Exercise & Fitness,Kitchen & Dining,1.0,False
+Exercise & Fitness,Kitchen Storage & Containers,0.007784500912134385,True
+Exercise & Fitness,Men,0.921331661286478,False
+Exercise & Fitness,Office Products,1.0,False
+Exercise & Fitness,Pants,0.14231610861009797,False
+Exercise & Fitness,"Patio, Lawn & Garden",1.0,False
+Exercise & Fitness,Pet Supplies,1.0,False
+Exercise & Fitness,Protein,0.6433982833235923,False
+Exercise & Fitness,"Rugs, Pads & Protectors",1.0,False
+Exercise & Fitness,Sheet & Pillowcase Sets,1.0,False
+Exercise & Fitness,Sheets & Pillowcases,1.0,False
+Exercise & Fitness,Shirts,1.0,False
+Exercise & Fitness,Shoes,1.0,False
+Exercise & Fitness,Single-Serve Capsules & Pods,1.0,False
+Exercise & Fitness,Skin Care,1.4801973070617307e-05,True
+Exercise & Fitness,Small Appliances,1.0,False
+Exercise & Fitness,Sport Specific Clothing,1.0,False
+Exercise & Fitness,Sports & Outdoors,1.0,False
+Exercise & Fitness,Sports Nutrition,0.000581733571648601,True
+Exercise & Fitness,Storage & Organization,0.00273959301554767,True
+Exercise & Fitness,Strength Training Equipment,1.0,False
+Exercise & Fitness,Thermoses,6.466518467235172e-10,True
+Exercise & Fitness,Tools & Home Improvement,1.0,False
+Exercise & Fitness,Toys & Games,1.0,False
+Exercise & Fitness,Tumblers,1.3055891084821502e-07,True
+Exercise & Fitness,Video Games,1.0,False
+Exercise & Fitness,"Vitamins, Minerals & Supplements",1.0,False
+Exercise & Fitness,Weights & Accessories,1.0,False
+Exercise & Fitness,Whey,0.6254121270490203,False
+Exercise & Fitness,Women,1.0,False
+Furniture,Grocery & Gourmet Food,3.600825902506989e-15,True
+Furniture,Health & Household,2.89987456424597e-13,True
+Furniture,Home & Kitchen,0.5277275944884273,False
+Furniture,Home Décor Products,1.0,False
+Furniture,Household Supplies,1.5696843884437553e-12,True
+Furniture,Insulated Beverage Containers,1.1461804766256094e-17,True
+Furniture,Kitchen & Dining,0.32496928266958086,False
+Furniture,Kitchen Storage & Containers,1.0,False
+Furniture,Men,2.373818658864777e-07,True
+Furniture,Office Products,1.0,False
+Furniture,Pants,3.298409122201578e-07,True
+Furniture,"Patio, Lawn & Garden",1.0,False
+Furniture,Pet Supplies,1.5639611973160367e-07,True
+Furniture,Protein,3.1438918730532772e-06,True
+Furniture,"Rugs, Pads & Protectors",0.4098367470439196,False
+Furniture,Sheet & Pillowcase Sets,1.0,False
+Furniture,Sheets & Pillowcases,1.0,False
+Furniture,Shirts,0.0017549397167559288,True
+Furniture,Shoes,1.0,False
+Furniture,Single-Serve Capsules & Pods,0.059358524969755515,False
+Furniture,Skin Care,3.5160039869651766e-13,True
+Furniture,Small Appliances,1.0,False
+Furniture,Sport Specific Clothing,0.1326325092380441,False
+Furniture,Sports & Outdoors,0.3156248218499984,False
+Furniture,Sports Nutrition,7.633797223643359e-11,True
+Furniture,Storage & Organization,1.0797022131339727e-10,True
+Furniture,Strength Training Equipment,0.016995368231757055,True
+Furniture,Thermoses,3.0398218860363795e-18,True
+Furniture,Tools & Home Improvement,1.0,False
+Furniture,Toys & Games,1.0,False
+Furniture,Tumblers,6.17239197266407e-15,True
+Furniture,Video Games,1.0,False
+Furniture,"Vitamins, Minerals & Supplements",0.7331832076075023,False
+Furniture,Weights & Accessories,0.00012594844012846196,True
+Furniture,Whey,3.7059807278144254e-06,True
+Furniture,Women,0.00042860298062661126,True
+Grocery & Gourmet Food,Health & Household,1.0,False
+Grocery & Gourmet Food,Home & Kitchen,6.227943519151794e-40,True
+Grocery & Gourmet Food,Home Décor Products,9.932849523135872e-13,True
+Grocery & Gourmet Food,Household Supplies,1.0,False
+Grocery & Gourmet Food,Insulated Beverage Containers,1.0,False
+Grocery & Gourmet Food,Kitchen & Dining,3.1246911629320644e-21,True
+Grocery & Gourmet Food,Kitchen Storage & Containers,3.835856961921891e-24,True
+Grocery & Gourmet Food,Men,1.0,False
+Grocery & Gourmet Food,Office Products,2.505274090957945e-11,True
+Grocery & Gourmet Food,Pants,1.0,False
+Grocery & Gourmet Food,"Patio, Lawn & Garden",1.5494194614636727e-35,True
+Grocery & Gourmet Food,Pet Supplies,0.0052013505588611834,True
+Grocery & Gourmet Food,Protein,1.0,False
+Grocery & Gourmet Food,"Rugs, Pads & Protectors",0.14617406903084196,False
+Grocery & Gourmet Food,Sheet & Pillowcase Sets,6.34926123594934e-15,True
+Grocery & Gourmet Food,Sheets & Pillowcases,2.96287622863086e-14,True
+Grocery & Gourmet Food,Shirts,1.0,False
+Grocery & Gourmet Food,Shoes,5.7734082590931285e-11,True
+Grocery & Gourmet Food,Single-Serve Capsules & Pods,0.4623674410688219,False
+Grocery & Gourmet Food,Skin Care,1.0,False
+Grocery & Gourmet Food,Small Appliances,2.32890134650507e-16,True
+Grocery & Gourmet Food,Sport Specific Clothing,0.8928784688787593,False
+Grocery & Gourmet Food,Sports & Outdoors,1.8514917326543685e-16,True
+Grocery & Gourmet Food,Sports Nutrition,1.0,False
+Grocery & Gourmet Food,Storage & Organization,1.0,False
+Grocery & Gourmet Food,Strength Training Equipment,1.0,False
+Grocery & Gourmet Food,Thermoses,1.0,False
+Grocery & Gourmet Food,Tools & Home Improvement,4.036704314275643e-08,True
+Grocery & Gourmet Food,Toys & Games,5.544308614600366e-08,True
+Grocery & Gourmet Food,Tumblers,1.0,False
+Grocery & Gourmet Food,Video Games,3.196882044302235e-09,True
+Grocery & Gourmet Food,"Vitamins, Minerals & Supplements",0.041674819440021126,True
+Grocery & Gourmet Food,Weights & Accessories,1.0,False
+Grocery & Gourmet Food,Whey,1.0,False
+Grocery & Gourmet Food,Women,0.0026124809625348725,True
+Health & Household,Home & Kitchen,3.8541793666575608e-50,True
+Health & Household,Home Décor Products,1.277624711773508e-10,True
+Health & Household,Household Supplies,1.0,False
+Health & Household,Insulated Beverage Containers,0.08531039490766185,False
+Health & Household,Kitchen & Dining,2.2899228535986882e-20,True
+Health & Household,Kitchen Storage & Containers,4.640584646853017e-22,True
+Health & Household,Men,1.0,False
+Health & Household,Office Products,1.8507617349162164e-09,True
+Health & Household,Pants,1.0,False
+Health & Household,"Patio, Lawn & Garden",6.50676343759285e-35,True
+Health & Household,Pet Supplies,0.5468095396379996,False
+Health & Household,Protein,1.0,False
+Health & Household,"Rugs, Pads & Protectors",1.0,False
+Health & Household,Sheet & Pillowcase Sets,6.929865869355127e-13,True
+Health & Household,Sheets & Pillowcases,3.261884744709031e-12,True
+Health & Household,Shirts,1.0,False
+Health & Household,Shoes,6.693831931175485e-09,True
+Health & Household,Single-Serve Capsules & Pods,1.0,False
+Health & Household,Skin Care,1.0,False
+Health & Household,Small Appliances,2.477223585459847e-14,True
+Health & Household,Sport Specific Clothing,1.0,False
+Health & Household,Sports & Outdoors,1.1467121620088152e-14,True
+Health & Household,Sports Nutrition,1.0,False
+Health & Household,Storage & Organization,1.0,False
+Health & Household,Strength Training Equipment,1.0,False
+Health & Household,Thermoses,0.060016029746428716,False
+Health & Household,Tools & Home Improvement,3.130141887790464e-06,True
+Health & Household,Toys & Games,3.149210979667746e-06,True
+Health & Household,Tumblers,0.6092845417460936,False
+Health & Household,Video Games,2.3740095264818493e-07,True
+Health & Household,"Vitamins, Minerals & Supplements",0.6357420023508453,False
+Health & Household,Weights & Accessories,1.0,False
+Health & Household,Whey,1.0,False
+Health & Household,Women,0.14469242793107867,False
+Home & Kitchen,Home Décor Products,1.0,False
+Home & Kitchen,Household Supplies,2.3447797751059065e-12,True
+Home & Kitchen,Insulated Beverage Containers,1.3844486646125158e-22,True
+Home & Kitchen,Kitchen & Dining,1.0,False
+Home & Kitchen,Kitchen Storage & Containers,7.98974376790729e-05,True
+Home & Kitchen,Men,1.5150525715588091e-07,True
+Home & Kitchen,Office Products,1.0,False
+Home & Kitchen,Pants,0.0002157814473037478,True
+Home & Kitchen,"Patio, Lawn & Garden",0.0039798752060493615,True
+Home & Kitchen,Pet Supplies,4.470575375270308e-12,True
+Home & Kitchen,Protein,0.0029995245950088434,True
+Home & Kitchen,"Rugs, Pads & Protectors",1.0,False
+Home & Kitchen,Sheet & Pillowcase Sets,1.0,False
+Home & Kitchen,Sheets & Pillowcases,1.0,False
+Home & Kitchen,Shirts,1.0,False
+Home & Kitchen,Shoes,1.0,False
+Home & Kitchen,Single-Serve Capsules & Pods,1.0,False
+Home & Kitchen,Skin Care,1.2035020159090188e-15,True
+Home & Kitchen,Small Appliances,1.0,False
+Home & Kitchen,Sport Specific Clothing,1.0,False
+Home & Kitchen,Sports & Outdoors,1.0,False
+Home & Kitchen,Sports Nutrition,6.452723370319381e-10,True
+Home & Kitchen,Storage & Organization,8.972763688709779e-14,True
+Home & Kitchen,Strength Training Equipment,1.0,False
+Home & Kitchen,Thermoses,7.219180665403669e-26,True
+Home & Kitchen,Tools & Home Improvement,1.0,False
+Home & Kitchen,Toys & Games,1.0,False
+Home & Kitchen,Tumblers,1.2766131777109807e-14,True
+Home & Kitchen,Video Games,1.0,False
+Home & Kitchen,"Vitamins, Minerals & Supplements",1.0,False
+Home & Kitchen,Weights & Accessories,0.16065935448798974,False
+Home & Kitchen,Whey,0.0038296932798033458,True
+Home & Kitchen,Women,0.26175839675715906,False
+Home Décor Products,Household Supplies,7.865825343641794e-08,True
+Home Décor Products,Insulated Beverage Containers,7.996620643036076e-14,True
+Home Décor Products,Kitchen & Dining,1.0,False
+Home Décor Products,Kitchen Storage & Containers,0.0017562584735424933,True
+Home Décor Products,Men,0.015924352294181415,True
+Home Décor Products,Office Products,1.0,False
+Home Décor Products,Pants,0.011134487954562849,True
+Home Décor Products,"Patio, Lawn & Garden",0.6321901043166326,False
+Home Décor Products,Pet Supplies,0.009085926024789786,True
+Home Décor Products,Protein,0.07634550079205989,False
+Home Décor Products,"Rugs, Pads & Protectors",1.0,False
+Home Décor Products,Sheet & Pillowcase Sets,1.0,False
+Home Décor Products,Sheets & Pillowcases,1.0,False
+Home Décor Products,Shirts,1.0,False
+Home Décor Products,Shoes,1.0,False
+Home Décor Products,Single-Serve Capsules & Pods,1.0,False
+Home Décor Products,Skin Care,9.616484740957397e-09,True
+Home Décor Products,Small Appliances,1.0,False
+Home Décor Products,Sport Specific Clothing,1.0,False
+Home Décor Products,Sports & Outdoors,1.0,False
+Home Décor Products,Sports Nutrition,4.485854693554162e-06,True
+Home Décor Products,Storage & Organization,3.849873731700404e-06,True
+Home Décor Products,Strength Training Equipment,1.0,False
+Home Décor Products,Thermoses,7.67382481511868e-15,True
+Home Décor Products,Tools & Home Improvement,1.0,False
+Home Décor Products,Toys & Games,1.0,False
+Home Décor Products,Tumblers,2.837287011761578e-10,True
+Home Décor Products,Video Games,1.0,False
+Home Décor Products,"Vitamins, Minerals & Supplements",1.0,False
+Home Décor Products,Weights & Accessories,1.0,False
+Home Décor Products,Whey,0.08037817161861224,False
+Home Décor Products,Women,1.0,False
+Household Supplies,Insulated Beverage Containers,1.0,False
+Household Supplies,Kitchen & Dining,1.8607109008344e-09,True
+Household Supplies,Kitchen Storage & Containers,1.4690583833746008e-18,True
+Household Supplies,Men,1.0,False
+Household Supplies,Office Products,3.444744055418275e-09,True
+Household Supplies,Pants,1.0,False
+Household Supplies,"Patio, Lawn & Garden",1.6814789314778417e-18,True
+Household Supplies,Pet Supplies,0.147057441075324,False
+Household Supplies,Protein,1.0,False
+Household Supplies,"Rugs, Pads & Protectors",0.07410679610837365,False
+Household Supplies,Sheet & Pillowcase Sets,3.5765812350812515e-11,True
+Household Supplies,Sheets & Pillowcases,1.5267353849952932e-10,True
+Household Supplies,Shirts,1.0,False
+Household Supplies,Shoes,1.691337998096073e-07,True
+Household Supplies,Single-Serve Capsules & Pods,0.2165137613578612,False
+Household Supplies,Skin Care,1.0,False
+Household Supplies,Small Appliances,1.4030578011204523e-12,True
+Household Supplies,Sport Specific Clothing,0.3442985993983209,False
+Household Supplies,Sports & Outdoors,2.26844529270132e-08,True
+Household Supplies,Sports Nutrition,1.0,False
+Household Supplies,Storage & Organization,1.0,False
+Household Supplies,Strength Training Equipment,0.7120581248536747,False
+Household Supplies,Thermoses,1.0,False
+Household Supplies,Tools & Home Improvement,3.4991840935015592e-06,True
+Household Supplies,Toys & Games,1.3132718182175793e-06,True
+Household Supplies,Tumblers,1.0,False
+Household Supplies,Video Games,2.962774493494159e-07,True
+Household Supplies,"Vitamins, Minerals & Supplements",0.026605179547984355,True
+Household Supplies,Weights & Accessories,1.0,False
+Household Supplies,Whey,1.0,False
+Household Supplies,Women,0.018779059773671725,True
+Insulated Beverage Containers,Kitchen & Dining,2.7285578563893544e-17,True
+Insulated Beverage Containers,Kitchen Storage & Containers,2.3823334876961793e-25,True
+Insulated Beverage Containers,Men,0.0015293962943409088,True
+Insulated Beverage Containers,Office Products,5.86325951447993e-14,True
+Insulated Beverage Containers,Pants,1.0,False
+Insulated Beverage Containers,"Patio, Lawn & Garden",1.4294343457686944e-28,True
+Insulated Beverage Containers,Pet Supplies,1.2895939140846139e-05,True
+Insulated Beverage Containers,Protein,1.0,False
+Insulated Beverage Containers,"Rugs, Pads & Protectors",0.000264236230902656,True
+Insulated Beverage Containers,Sheet & Pillowcase Sets,7.004160298600539e-17,True
+Insulated Beverage Containers,Sheets & Pillowcases,3.289632416642511e-16,True
+Insulated Beverage Containers,Shirts,0.36816297141595217,False
+Insulated Beverage Containers,Shoes,6.539421782609678e-13,True
+Insulated Beverage Containers,Single-Serve Capsules & Pods,0.0008439680829491264,True
+Insulated Beverage Containers,Skin Care,1.0,False
+Insulated Beverage Containers,Small Appliances,2.3972047391800815e-18,True
+Insulated Beverage Containers,Sport Specific Clothing,0.0021706427603098042,True
+Insulated Beverage Containers,Sports & Outdoors,2.5854386927061707e-15,True
+Insulated Beverage Containers,Sports Nutrition,1.0,False
+Insulated Beverage Containers,Storage & Organization,1.0,False
+Insulated Beverage Containers,Strength Training Equipment,0.004241963369058656,True
+Insulated Beverage Containers,Thermoses,1.0,False
+Insulated Beverage Containers,Tools & Home Improvement,9.284657898744946e-11,True
+Insulated Beverage Containers,Toys & Games,8.056724581634268e-11,True
+Insulated Beverage Containers,Tumblers,1.0,False
+Insulated Beverage Containers,Video Games,7.074385302534331e-12,True
+Insulated Beverage Containers,"Vitamins, Minerals & Supplements",6.37790886403879e-05,True
+Insulated Beverage Containers,Weights & Accessories,1.0,False
+Insulated Beverage Containers,Whey,1.0,False
+Insulated Beverage Containers,Women,3.1809123227239196e-06,True
+Kitchen & Dining,Kitchen Storage & Containers,7.183919196655236e-05,True
+Kitchen & Dining,Men,0.0005706466926926558,True
+Kitchen & Dining,Office Products,1.0,False
+Kitchen & Dining,Pants,0.003883053013319613,True
+Kitchen & Dining,"Patio, Lawn & Garden",0.008974590045923065,True
+Kitchen & Dining,Pet Supplies,3.55166618972275e-05,True
+Kitchen & Dining,Protein,0.03514415867300842,True
+Kitchen & Dining,"Rugs, Pads & Protectors",1.0,False
+Kitchen & Dining,Sheet & Pillowcase Sets,1.0,False
+Kitchen & Dining,Sheets & Pillowcases,1.0,False
+Kitchen & Dining,Shirts,1.0,False
+Kitchen & Dining,Shoes,1.0,False
+Kitchen & Dining,Single-Serve Capsules & Pods,1.0,False
+Kitchen & Dining,Skin Care,2.842383650184869e-11,True
+Kitchen & Dining,Small Appliances,1.0,False
+Kitchen & Dining,Sport Specific Clothing,1.0,False
+Kitchen & Dining,Sports & Outdoors,1.0,False
+Kitchen & Dining,Sports Nutrition,2.177778713098997e-07,True
+Kitchen & Dining,Storage & Organization,1.0477514877521768e-08,True
+Kitchen & Dining,Strength Training Equipment,1.0,False
+Kitchen & Dining,Thermoses,3.3596873236251117e-19,True
+Kitchen & Dining,Tools & Home Improvement,1.0,False
+Kitchen & Dining,Toys & Games,1.0,False
+Kitchen & Dining,Tumblers,6.800220554330621e-12,True
+Kitchen & Dining,Video Games,1.0,False
+Kitchen & Dining,"Vitamins, Minerals & Supplements",1.0,False
+Kitchen & Dining,Weights & Accessories,1.0,False
+Kitchen & Dining,Whey,0.03947166608814601,True
+Kitchen & Dining,Women,1.0,False
+Kitchen Storage & Containers,Men,3.845370801633394e-13,True
+Kitchen Storage & Containers,Office Products,1.0,False
+Kitchen Storage & Containers,Pants,2.0466606745696317e-11,True
+Kitchen Storage & Containers,"Patio, Lawn & Garden",1.0,False
+Kitchen Storage & Containers,Pet Supplies,6.495317605386973e-14,True
+Kitchen Storage & Containers,Protein,3.785976365990077e-10,True
+Kitchen Storage & Containers,"Rugs, Pads & Protectors",0.0015583238200762867,True
+Kitchen Storage & Containers,Sheet & Pillowcase Sets,1.0,False
+Kitchen Storage & Containers,Sheets & Pillowcases,1.0,False
+Kitchen Storage & Containers,Shirts,1.37810577152701e-06,True
+Kitchen Storage & Containers,Shoes,0.01228586457162959,True
+Kitchen Storage & Containers,Single-Serve Capsules & Pods,9.19411051082443e-05,True
+Kitchen Storage & Containers,Skin Care,5.171833837782696e-20,True
+Kitchen Storage & Containers,Small Appliances,1.0,False
+Kitchen Storage & Containers,Sport Specific Clothing,0.00036454334507744405,True
+Kitchen Storage & Containers,Sports & Outdoors,9.397046935017595e-05,True
+Kitchen Storage & Containers,Sports Nutrition,1.6987766399639731e-16,True
+Kitchen Storage & Containers,Storage & Organization,2.1073004826451458e-17,True
+Kitchen Storage & Containers,Strength Training Equipment,1.7393559551979158e-05,True
+Kitchen Storage & Containers,Thermoses,1.9595777972154485e-26,True
+Kitchen Storage & Containers,Tools & Home Improvement,0.015825080533783696,True
+Kitchen Storage & Containers,Toys & Games,0.533871898164228,False
+Kitchen Storage & Containers,Tumblers,5.5435906140702376e-21,True
+Kitchen Storage & Containers,Video Games,0.3782861342143828,False
+Kitchen Storage & Containers,"Vitamins, Minerals & Supplements",0.00324764536323482,True
+Kitchen Storage & Containers,Weights & Accessories,4.372893696836646e-08,True
+Kitchen Storage & Containers,Whey,5.667868882755238e-10,True
+Kitchen Storage & Containers,Women,1.6818783569944936e-08,True
+Men,Office Products,0.0003435935063209069,True
+Men,Pants,1.0,False
+Men,"Patio, Lawn & Garden",7.862925894582631e-14,True
+Men,Pet Supplies,1.0,False
+Men,Protein,1.0,False
+Men,"Rugs, Pads & Protectors",1.0,False
+Men,Sheet & Pillowcase Sets,7.142164897117826e-06,True
+Men,Sheets & Pillowcases,2.9349422813950843e-05,True
+Men,Shirts,1.0,False
+Men,Shoes,0.023883571198890254,True
+Men,Single-Serve Capsules & Pods,1.0,False
+Men,Skin Care,1.0,False
+Men,Small Appliances,2.963433977180527e-07,True
+Men,Sport Specific Clothing,1.0,False
+Men,Sports & Outdoors,0.00662238900191127,True
+Men,Sports Nutrition,1.0,False
+Men,Storage & Organization,1.0,False
+Men,Strength Training Equipment,1.0,False
+Men,Thermoses,0.00101031207430558,True
+Men,Tools & Home Improvement,0.2192776174058745,False
+Men,Toys & Games,0.06124471867620679,False
+Men,Tumblers,0.017512494804470365,True
+Men,Video Games,0.022139894457380193,True
+Men,"Vitamins, Minerals & Supplements",1.0,False
+Men,Weights & Accessories,1.0,False
+Men,Whey,1.0,False
+Men,Women,1.0,False
+Office Products,Pants,0.00016771871563344527,True
+Office Products,"Patio, Lawn & Garden",1.0,False
+Office Products,Pet Supplies,0.00031064314855359454,True
+Office Products,Protein,0.0011790474866913041,True
+Office Products,"Rugs, Pads & Protectors",1.0,False
+Office Products,Sheet & Pillowcase Sets,1.0,False
+Office Products,Sheets & Pillowcases,1.0,False
+Office Products,Shirts,0.244663151306906,False
+Office Products,Shoes,1.0,False
+Office Products,Single-Serve Capsules & Pods,1.0,False
+Office Products,Skin Care,1.1604783199910055e-09,True
+Office Products,Small Appliances,1.0,False
+Office Products,Sport Specific Clothing,1.0,False
+Office Products,Sports & Outdoors,1.0,False
+Office Products,Sports Nutrition,1.2697874361752475e-07,True
+Office Products,Storage & Organization,3.0535762158236287e-07,True
+Office Products,Strength Training Equipment,1.0,False
+Office Products,Thermoses,1.835180892218811e-14,True
+Office Products,Tools & Home Improvement,1.0,False
+Office Products,Toys & Games,1.0,False
+Office Products,Tumblers,1.4755358012388663e-11,True
+Office Products,Video Games,1.0,False
+Office Products,"Vitamins, Minerals & Supplements",1.0,False
+Office Products,Weights & Accessories,0.027573397035549407,True
+Office Products,Whey,0.001267648005313991,True
+Office Products,Women,0.18333808703966478,False
+Pants,"Patio, Lawn & Garden",2.636138370428919e-09,True
+Pants,Pet Supplies,1.0,False
+Pants,Protein,1.0,False
+Pants,"Rugs, Pads & Protectors",1.0,False
+Pants,Sheet & Pillowcase Sets,1.2785600197227754e-05,True
+Pants,Sheets & Pillowcases,4.2024310490657486e-05,True
+Pants,Shirts,1.0,False
+Pants,Shoes,0.01064983442209203,True
+Pants,Single-Serve Capsules & Pods,1.0,False
+Pants,Skin Care,1.0,False
+Pants,Small Appliances,8.294683824488475e-07,True
+Pants,Sport Specific Clothing,1.0,False
+Pants,Sports & Outdoors,0.011231773995293699,True
+Pants,Sports Nutrition,1.0,False
+Pants,Storage & Organization,1.0,False
+Pants,Strength Training Equipment,1.0,False
+Pants,Thermoses,1.0,False
+Pants,Tools & Home Improvement,0.04603173843232596,True
+Pants,Toys & Games,0.012561445281919147,True
+Pants,Tumblers,1.0,False
+Pants,Video Games,0.006236653565742684,True
+Pants,"Vitamins, Minerals & Supplements",1.0,False
+Pants,Weights & Accessories,1.0,False
+Pants,Whey,1.0,False
+Pants,Women,1.0,False
+"Patio, Lawn & Garden",Pet Supplies,6.08331163462038e-17,True
+"Patio, Lawn & Garden",Protein,7.068049994365146e-08,True
+"Patio, Lawn & Garden","Rugs, Pads & Protectors",0.4358284247185648,False
+"Patio, Lawn & Garden",Sheet & Pillowcase Sets,1.0,False
+"Patio, Lawn & Garden",Sheets & Pillowcases,1.0,False
+"Patio, Lawn & Garden",Shirts,0.0004417560836435483,True
+"Patio, Lawn & Garden",Shoes,1.0,False
+"Patio, Lawn & Garden",Single-Serve Capsules & Pods,0.030483925322606204,True
+"Patio, Lawn & Garden",Skin Care,7.719912029010193e-22,True
+"Patio, Lawn & Garden",Small Appliances,1.0,False
+"Patio, Lawn & Garden",Sport Specific Clothing,0.10956360307130045,False
+"Patio, Lawn & Garden",Sports & Outdoors,0.017103046954372012,True
+"Patio, Lawn & Garden",Sports Nutrition,5.989371190955426e-16,True
+"Patio, Lawn & Garden",Storage & Organization,9.48328888658254e-20,True
+"Patio, Lawn & Garden",Strength Training Equipment,0.005762285325082457,True
+"Patio, Lawn & Garden",Thermoses,2.778321771416982e-31,True
+"Patio, Lawn & Garden",Tools & Home Improvement,1.0,False
+"Patio, Lawn & Garden",Toys & Games,1.0,False
+"Patio, Lawn & Garden",Tumblers,1.1523819963970177e-20,True
+"Patio, Lawn & Garden",Video Games,1.0,False
+"Patio, Lawn & Garden","Vitamins, Minerals & Supplements",0.873268866168508,False
+"Patio, Lawn & Garden",Weights & Accessories,1.2156056418210497e-05,True
+"Patio, Lawn & Garden",Whey,1.198304620708278e-07,True
+"Patio, Lawn & Garden",Women,6.695820820392582e-07,True
+Pet Supplies,Protein,1.0,False
+Pet Supplies,"Rugs, Pads & Protectors",1.0,False
+Pet Supplies,Sheet & Pillowcase Sets,3.6672331585641096e-06,True
+Pet Supplies,Sheets & Pillowcases,1.604674346183305e-05,True
+Pet Supplies,Shirts,1.0,False
+Pet Supplies,Shoes,0.019064094253635856,True
+Pet Supplies,Single-Serve Capsules & Pods,1.0,False
+Pet Supplies,Skin Care,0.12700867719418363,False
+Pet Supplies,Small Appliances,1.363108245146521e-07,True
+Pet Supplies,Sport Specific Clothing,1.0,False
+Pet Supplies,Sports & Outdoors,0.001613558541268397,True
+Pet Supplies,Sports Nutrition,1.0,False
+Pet Supplies,Storage & Organization,1.0,False
+Pet Supplies,Strength Training Equipment,1.0,False
+Pet Supplies,Thermoses,4.078667841183826e-06,True
+Pet Supplies,Tools & Home Improvement,0.2586681690581884,False
+Pet Supplies,Toys & Games,0.07544811292584443,False
+Pet Supplies,Tumblers,0.0009186193454946136,True
+Pet Supplies,Video Games,0.023731764863487614,True
+Pet Supplies,"Vitamins, Minerals & Supplements",1.0,False
+Pet Supplies,Weights & Accessories,1.0,False
+Pet Supplies,Whey,1.0,False
+Pet Supplies,Women,1.0,False
+Protein,"Rugs, Pads & Protectors",1.0,False
+Protein,Sheet & Pillowcase Sets,0.00011982862723299768,True
+Protein,Sheets & Pillowcases,0.0003712196041326941,True
+Protein,Shirts,1.0,False
+Protein,Shoes,0.06775651903909741,False
+Protein,Single-Serve Capsules & Pods,1.0,False
+Protein,Skin Care,1.0,False
+Protein,Small Appliances,8.763340092686835e-06,True
+Protein,Sport Specific Clothing,1.0,False
+Protein,Sports & Outdoors,0.08589511066439412,False
+Protein,Sports Nutrition,1.0,False
+Protein,Storage & Organization,1.0,False
+Protein,Strength Training Equipment,1.0,False
+Protein,Thermoses,1.0,False
+Protein,Tools & Home Improvement,0.23675165056468309,False
+Protein,Toys & Games,0.06521089062415826,False
+Protein,Tumblers,1.0,False
+Protein,Video Games,0.036104586240923144,True
+Protein,"Vitamins, Minerals & Supplements",1.0,False
+Protein,Weights & Accessories,1.0,False
+Protein,Whey,1.0,False
+Protein,Women,1.0,False
+"Rugs, Pads & Protectors",Sheet & Pillowcase Sets,1.0,False
+"Rugs, Pads & Protectors",Sheets & Pillowcases,1.0,False
+"Rugs, Pads & Protectors",Shirts,1.0,False
+"Rugs, Pads & Protectors",Shoes,1.0,False
+"Rugs, Pads & Protectors",Single-Serve Capsules & Pods,1.0,False
+"Rugs, Pads & Protectors",Skin Care,0.11344436128938933,False
+"Rugs, Pads & Protectors",Small Appliances,1.0,False
+"Rugs, Pads & Protectors",Sport Specific Clothing,1.0,False
+"Rugs, Pads & Protectors",Sports & Outdoors,1.0,False
+"Rugs, Pads & Protectors",Sports Nutrition,0.5805336656350156,False
+"Rugs, Pads & Protectors",Storage & Organization,1.0,False
+"Rugs, Pads & Protectors",Strength Training Equipment,1.0,False
+"Rugs, Pads & Protectors",Thermoses,0.00025458096785622644,True
+"Rugs, Pads & Protectors",Tools & Home Improvement,1.0,False
+"Rugs, Pads & Protectors",Toys & Games,1.0,False
+"Rugs, Pads & Protectors",Tumblers,0.0011334970061272088,True
+"Rugs, Pads & Protectors",Video Games,1.0,False
+"Rugs, Pads & Protectors","Vitamins, Minerals & Supplements",1.0,False
+"Rugs, Pads & Protectors",Weights & Accessories,1.0,False
+"Rugs, Pads & Protectors",Whey,1.0,False
+"Rugs, Pads & Protectors",Women,1.0,False
+Sheet & Pillowcase Sets,Sheets & Pillowcases,1.0,False
+Sheet & Pillowcase Sets,Shirts,0.05304584201690545,False
+Sheet & Pillowcase Sets,Shoes,1.0,False
+Sheet & Pillowcase Sets,Single-Serve Capsules & Pods,1.0,False
+Sheet & Pillowcase Sets,Skin Care,4.899329100888525e-12,True
+Sheet & Pillowcase Sets,Small Appliances,1.0,False
+Sheet & Pillowcase Sets,Sport Specific Clothing,1.0,False
+Sheet & Pillowcase Sets,Sports & Outdoors,1.0,False
+Sheet & Pillowcase Sets,Sports Nutrition,2.142703775345342e-09,True
+Sheet & Pillowcase Sets,Storage & Organization,1.7978181897569736e-09,True
+Sheet & Pillowcase Sets,Strength Training Equipment,0.4760298112350382,False
+Sheet & Pillowcase Sets,Thermoses,1.1152354646829735e-17,True
+Sheet & Pillowcase Sets,Tools & Home Improvement,1.0,False
+Sheet & Pillowcase Sets,Toys & Games,1.0,False
+Sheet & Pillowcase Sets,Tumblers,1.3173221067496527e-13,True
+Sheet & Pillowcase Sets,Video Games,1.0,False
+Sheet & Pillowcase Sets,"Vitamins, Minerals & Supplements",1.0,False
+Sheet & Pillowcase Sets,Weights & Accessories,0.004361289251489422,True
+Sheet & Pillowcase Sets,Whey,0.00013924524488854664,True
+Sheet & Pillowcase Sets,Women,0.017386731697887448,True
+Sheets & Pillowcases,Shirts,0.1346710717993589,False
+Sheets & Pillowcases,Shoes,1.0,False
+Sheets & Pillowcases,Single-Serve Capsules & Pods,1.0,False
+Sheets & Pillowcases,Skin Care,2.226950509055587e-11,True
+Sheets & Pillowcases,Small Appliances,1.0,False
+Sheets & Pillowcases,Sport Specific Clothing,1.0,False
+Sheets & Pillowcases,Sports & Outdoors,1.0,False
+Sheets & Pillowcases,Sports Nutrition,8.775235795583272e-09,True
+Sheets & Pillowcases,Storage & Organization,8.106297209807208e-09,True
+Sheets & Pillowcases,Strength Training Equipment,1.0,False
+Sheets & Pillowcases,Thermoses,5.264817605172725e-17,True
+Sheets & Pillowcases,Tools & Home Improvement,1.0,False
+Sheets & Pillowcases,Toys & Games,1.0,False
+Sheets & Pillowcases,Tumblers,5.646490786734864e-13,True
+Sheets & Pillowcases,Video Games,1.0,False
+Sheets & Pillowcases,"Vitamins, Minerals & Supplements",1.0,False
+Sheets & Pillowcases,Weights & Accessories,0.012139216259176426,True
+Sheets & Pillowcases,Whey,0.0004231826865935459,True
+Sheets & Pillowcases,Women,0.05651972437140903,False
+Shirts,Shoes,1.0,False
+Shirts,Single-Serve Capsules & Pods,1.0,False
+Shirts,Skin Care,1.0,False
+Shirts,Small Appliances,0.005846649389407052,True
+Shirts,Sport Specific Clothing,1.0,False
+Shirts,Sports & Outdoors,1.0,False
+Shirts,Sports Nutrition,1.0,False
+Shirts,Storage & Organization,1.0,False
+Shirts,Strength Training Equipment,1.0,False
+Shirts,Thermoses,0.43745550274323025,False
+Shirts,Tools & Home Improvement,1.0,False
+Shirts,Toys & Games,1.0,False
+Shirts,Tumblers,0.5683889278587132,False
+Shirts,Video Games,1.0,False
+Shirts,"Vitamins, Minerals & Supplements",1.0,False
+Shirts,Weights & Accessories,1.0,False
+Shirts,Whey,1.0,False
+Shirts,Women,1.0,False
+Shoes,Single-Serve Capsules & Pods,1.0,False
+Shoes,Skin Care,3.5693198894831855e-08,True
+Shoes,Small Appliances,1.0,False
+Shoes,Sport Specific Clothing,1.0,False
+Shoes,Sports & Outdoors,1.0,False
+Shoes,Sports Nutrition,7.579310127610807e-06,True
+Shoes,Storage & Organization,1.2177858786562068e-05,True
+Shoes,Strength Training Equipment,1.0,False
+Shoes,Thermoses,1.0901463808863706e-13,True
+Shoes,Tools & Home Improvement,1.0,False
+Shoes,Toys & Games,1.0,False
+Shoes,Tumblers,6.511775481851379e-10,True
+Shoes,Video Games,1.0,False
+Shoes,"Vitamins, Minerals & Supplements",1.0,False
+Shoes,Weights & Accessories,1.0,False
+Shoes,Whey,0.07033336350787786,False
+Shoes,Women,1.0,False
+Single-Serve Capsules & Pods,Skin Care,0.33988449770560686,False
+Single-Serve Capsules & Pods,Small Appliances,0.20283894878156264,False
+Single-Serve Capsules & Pods,Sport Specific Clothing,1.0,False
+Single-Serve Capsules & Pods,Sports & Outdoors,1.0,False
+Single-Serve Capsules & Pods,Sports Nutrition,1.0,False
+Single-Serve Capsules & Pods,Storage & Organization,1.0,False
+Single-Serve Capsules & Pods,Strength Training Equipment,1.0,False
+Single-Serve Capsules & Pods,Thermoses,0.0008163902514377884,True
+Single-Serve Capsules & Pods,Tools & Home Improvement,1.0,False
+Single-Serve Capsules & Pods,Toys & Games,1.0,False
+Single-Serve Capsules & Pods,Tumblers,0.0034708770684168744,True
+Single-Serve Capsules & Pods,Video Games,1.0,False
+Single-Serve Capsules & Pods,"Vitamins, Minerals & Supplements",1.0,False
+Single-Serve Capsules & Pods,Weights & Accessories,1.0,False
+Single-Serve Capsules & Pods,Whey,1.0,False
+Single-Serve Capsules & Pods,Women,1.0,False
+Skin Care,Small Appliances,1.7320137877315995e-13,True
+Skin Care,Sport Specific Clothing,0.5657942716364324,False
+Skin Care,Sports & Outdoors,1.0254456885653611e-09,True
+Skin Care,Sports Nutrition,1.0,False
+Skin Care,Storage & Organization,1.0,False
+Skin Care,Strength Training Equipment,1.0,False
+Skin Care,Thermoses,1.0,False
+Skin Care,Tools & Home Improvement,1.541599773927788e-06,True
+Skin Care,Toys & Games,7.336948920779199e-07,True
+Skin Care,Tumblers,1.0,False
+Skin Care,Video Games,1.2020331675380052e-07,True
+Skin Care,"Vitamins, Minerals & Supplements",0.03833850660545379,True
+Skin Care,Weights & Accessories,1.0,False
+Skin Care,Whey,1.0,False
+Skin Care,Women,0.01705933060963768,True
+Small Appliances,Sport Specific Clothing,0.44825041540077,False
+Small Appliances,Sports & Outdoors,1.0,False
+Small Appliances,Sports Nutrition,9.044482198615335e-11,True
+Small Appliances,Storage & Organization,6.411912767701023e-11,True
+Small Appliances,Strength Training Equipment,0.05771517579830761,False
+Small Appliances,Thermoses,3.8590393885857646e-19,True
+Small Appliances,Tools & Home Improvement,1.0,False
+Small Appliances,Toys & Games,1.0,False
+Small Appliances,Tumblers,5.1450327356558134e-15,True
+Small Appliances,Video Games,1.0,False
+Small Appliances,"Vitamins, Minerals & Supplements",1.0,False
+Small Appliances,Weights & Accessories,0.00039704937372097676,True
+Small Appliances,Whey,1.0611083406341684e-05,True
+Small Appliances,Women,0.00111683699519094,True
+Sport Specific Clothing,Sports & Outdoors,1.0,False
+Sport Specific Clothing,Sports Nutrition,1.0,False
+Sport Specific Clothing,Storage & Organization,1.0,False
+Sport Specific Clothing,Strength Training Equipment,1.0,False
+Sport Specific Clothing,Thermoses,0.002254607895542253,True
+Sport Specific Clothing,Tools & Home Improvement,1.0,False
+Sport Specific Clothing,Toys & Games,1.0,False
+Sport Specific Clothing,Tumblers,0.006691740650885233,True
+Sport Specific Clothing,Video Games,1.0,False
+Sport Specific Clothing,"Vitamins, Minerals & Supplements",1.0,False
+Sport Specific Clothing,Weights & Accessories,1.0,False
+Sport Specific Clothing,Whey,1.0,False
+Sport Specific Clothing,Women,1.0,False
+Sports & Outdoors,Sports Nutrition,1.862683276408227e-06,True
+Sports & Outdoors,Storage & Organization,4.4396940433835597e-07,True
+Sports & Outdoors,Strength Training Equipment,1.0,False
+Sports & Outdoors,Thermoses,8.778034112902303e-17,True
+Sports & Outdoors,Tools & Home Improvement,1.0,False
+Sports & Outdoors,Toys & Games,1.0,False
+Sports & Outdoors,Tumblers,7.920016861934311e-11,True
+Sports & Outdoors,Video Games,1.0,False
+Sports & Outdoors,"Vitamins, Minerals & Supplements",1.0,False
+Sports & Outdoors,Weights & Accessories,1.0,False
+Sports & Outdoors,Whey,0.09242494660789664,False
+Sports & Outdoors,Women,1.0,False
+Sports Nutrition,Storage & Organization,1.0,False
+Sports Nutrition,Strength Training Equipment,1.0,False
+Sports Nutrition,Thermoses,1.0,False
+Sports Nutrition,Tools & Home Improvement,0.00010270856104448505,True
+Sports Nutrition,Toys & Games,3.346227932952319e-05,True
+Sports Nutrition,Tumblers,1.0,False
+Sports Nutrition,Video Games,9.39936458981377e-06,True
+Sports Nutrition,"Vitamins, Minerals & Supplements",0.2365620117390094,False
+Sports Nutrition,Weights & Accessories,1.0,False
+Sports Nutrition,Whey,1.0,False
+Sports Nutrition,Women,0.29106740343281723,False
+Storage & Organization,Strength Training Equipment,1.0,False
+Storage & Organization,Thermoses,1.0,False
+Storage & Organization,Tools & Home Improvement,0.00036176284980933034,True
+Storage & Organization,Toys & Games,0.00014066960272040232,True
+Storage & Organization,Tumblers,1.0,False
+Storage & Organization,Video Games,2.916623180452844e-05,True
+Storage & Organization,"Vitamins, Minerals & Supplements",1.0,False
+Storage & Organization,Weights & Accessories,1.0,False
+Storage & Organization,Whey,1.0,False
+Storage & Organization,Women,1.0,False
+Strength Training Equipment,Thermoses,0.004339876346881992,True
+Strength Training Equipment,Tools & Home Improvement,1.0,False
+Strength Training Equipment,Toys & Games,1.0,False
+Strength Training Equipment,Tumblers,0.01366986578945725,True
+Strength Training Equipment,Video Games,1.0,False
+Strength Training Equipment,"Vitamins, Minerals & Supplements",1.0,False
+Strength Training Equipment,Weights & Accessories,1.0,False
+Strength Training Equipment,Whey,1.0,False
+Strength Training Equipment,Women,1.0,False
+Thermoses,Tools & Home Improvement,2.936291846091736e-11,True
+Thermoses,Toys & Games,3.4120314581566404e-11,True
+Thermoses,Tumblers,1.0,False
+Thermoses,Video Games,2.2831437552187294e-12,True
+Thermoses,"Vitamins, Minerals & Supplements",5.79040553737807e-05,True
+Thermoses,Weights & Accessories,1.0,False
+Thermoses,Whey,1.0,False
+Thermoses,Women,1.4559887495798526e-06,True
+Tools & Home Improvement,Toys & Games,1.0,False
+Tools & Home Improvement,Tumblers,1.6200569039163024e-08,True
+Tools & Home Improvement,Video Games,1.0,False
+Tools & Home Improvement,"Vitamins, Minerals & Supplements",1.0,False
+Tools & Home Improvement,Weights & Accessories,1.0,False
+Tools & Home Improvement,Whey,0.23548013831596404,False
+Tools & Home Improvement,Women,1.0,False
+Toys & Games,Tumblers,6.750970033095622e-09,True
+Toys & Games,Video Games,1.0,False
+Toys & Games,"Vitamins, Minerals & Supplements",1.0,False
+Toys & Games,Weights & Accessories,0.9083280461144159,False
+Toys & Games,Whey,0.06526128215418396,False
+Toys & Games,Women,1.0,False
+Tumblers,Video Games,1.3375457084315048e-09,True
+Tumblers,"Vitamins, Minerals & Supplements",0.00034980936345621437,True
+Tumblers,Weights & Accessories,1.0,False
+Tumblers,Whey,1.0,False
+Tumblers,Women,0.00012581007867618687,True
+Video Games,"Vitamins, Minerals & Supplements",1.0,False
+Video Games,Weights & Accessories,0.5917105397626113,False
+Video Games,Whey,0.036906158526315985,True
+Video Games,Women,1.0,False
+"Vitamins, Minerals & Supplements",Weights & Accessories,1.0,False
+"Vitamins, Minerals & Supplements",Whey,1.0,False
+"Vitamins, Minerals & Supplements",Women,1.0,False
+Weights & Accessories,Whey,1.0,False
+Weights & Accessories,Women,1.0,False
+Whey,Women,1.0,False

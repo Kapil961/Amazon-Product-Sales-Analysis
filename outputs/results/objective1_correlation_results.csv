@@ -1,0 +1,3 @@
+Relationship,Sample Size,Pearson Correlation,Pearson P-value,Pearson Significant,Spearman Correlation,Spearman P-value,Spearman Significant
+Price vs Monthly Sales,4622,-0.23309852126362204,4.505253223825248e-58,True,-0.8438859277098442,0.0,True
+BSR vs Monthly Sales,4702,-0.16963933451950727,1.0772128800385227e-31,True,-0.7345147582703431,0.0,True

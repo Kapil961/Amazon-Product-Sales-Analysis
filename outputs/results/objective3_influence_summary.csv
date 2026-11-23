@@ -1,0 +1,2 @@
+Training_Records,Model_Parameters,Cooks_Distance_Threshold,High_Cooks_Distance_Count,High_Leverage_Count,Extreme_Residual_Count,Potentially_Influential_Count,Potentially_Influential_Percentage
+3785,51,0.0010568031704095112,145,371,76,460,12.15323645970938
