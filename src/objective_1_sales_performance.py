@@ -6,8 +6,7 @@ import seaborn as sns
 import ast
 
 from pathlib import Path
-from scipy.stats import pearsonr, spearmanr, kruskal
-from itertools import combinations
+from scipy.stats import pearsonr, spearmanr
 
 # --------------------------------------------------
 # 1. LOAD DATA
@@ -406,134 +405,6 @@ plt.close()
 
 
 # --------------------------------------------------
-# 12. KRUSKAL-WALLIS CATEGORY TEST
-# --------------------------------------------------
-
-print("\n========== CATEGORY DIFFERENCE TEST ==========")
-
-eligible_categories = eligible_category_summary.index.tolist()
-
-category_groups = []
-
-for category in eligible_categories:
-
-    values = category_df.loc[
-        category_df["category_list"] == category,
-        "monthly_sales"
-    ].dropna()
-
-    category_groups.append(values)
-
-test_result = None
-
-if len(category_groups) >= 2:
-
-    test_result = kruskal(*category_groups)
-
-    print("Categories tested:", len(category_groups))
-
-    print(
-        "Kruskal-Wallis statistic:",
-        round(test_result.statistic, 4)
-    )
-
-    print(
-        "P-value:",
-        format_p_value(test_result.pvalue)
-    )
-
-    print(
-        "Statistically significant:",
-        test_result.pvalue < 0.05
-    )
-
-else:
-
-    print("Not enough eligible categories for this test.")
-
-
-# --------------------------------------------------
-# 13. POST-HOC CATEGORY COMPARISON
-# --------------------------------------------------
-
-print("\n========== POST-HOC CATEGORY COMPARISON ==========")
-
-posthoc_results = []
-
-if test_result is not None and test_result.pvalue < 0.05:
-
-    try:
-        import scikit_posthocs as sp
-
-        posthoc_data = category_df[
-            category_df["category_list"].isin(eligible_categories)
-        ][
-            ["asin", "category_list", "monthly_sales"]
-        ].dropna()
-
-        # The same product may appear in multiple categories.
-        # Dunn's test is exploratory here because category groups
-        # may not be independent.
-
-        posthoc_matrix = sp.posthoc_dunn(
-            posthoc_data,
-            val_col="monthly_sales",
-            group_col="category_list",
-            p_adjust="bonferroni"
-        )
-
-        posthoc_matrix.to_csv(
-            result_folder / "objective1_category_posthoc_matrix.csv"
-        )
-
-        print("Dunn's post-hoc test completed.")
-        print("Bonferroni correction applied.")
-
-        for category_a, category_b in combinations(
-            posthoc_matrix.index, 2
-        ):
-
-            p_value = posthoc_matrix.loc[
-                category_a, category_b
-            ]
-
-            posthoc_results.append({
-                "Category 1": category_a,
-                "Category 2": category_b,
-                "Adjusted P-value": p_value,
-                "Significant": p_value < 0.05
-            })
-
-        posthoc_df = pd.DataFrame(posthoc_results)
-
-        posthoc_df.to_csv(
-            result_folder / "objective1_category_posthoc_pairs.csv",
-            index=False
-        )
-
-        print(
-            "Significant category pairs:",
-            int(posthoc_df["Significant"].sum())
-        )
-
-    except ImportError:
-
-        print(
-            "Post-hoc test not available. "
-            "Install scikit-posthocs using:"
-        )
-
-        print("pip install scikit-posthocs")
-
-else:
-
-    print(
-        "Post-hoc test skipped because the overall test "
-        "was not statistically significant or had too few groups."
-    )
-
-
-# --------------------------------------------------
 # 14. SAVE CORRELATION RESULTS
 # --------------------------------------------------
 
@@ -576,8 +447,5 @@ print("2. objective1_category_performance.csv")
 print("3. objective1_eligible_category_performance.csv")
 print("4. objective1_correlation_results.csv")
 
-if test_result is not None and test_result.pvalue < 0.05:
-    print("5. objective1_category_posthoc_matrix.csv")
-    print("6. objective1_category_posthoc_pairs.csv")
 
 print("\nObjective 1 analysis completed!")

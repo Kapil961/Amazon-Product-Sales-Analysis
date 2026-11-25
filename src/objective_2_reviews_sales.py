@@ -84,27 +84,16 @@ for x, y in relationships:
     print("Spearman p-value:", f"{spearman_result.pvalue:.6g}")
 
 # --------------------------------------------------
-# 4. MULTIPLE TESTING CORRECTION
-# --------------------------------------------------
+# 4. STATISTICAL SIGNIFICANCE
 
 results_df = pd.DataFrame(results)
 
-number_of_tests = len(results_df) * 2
-
-results_df["pearson_adjusted_p"] = np.minimum(
-    results_df["pearson_p_value"] * number_of_tests, 1
-)
-
-results_df["spearman_adjusted_p"] = np.minimum(
-    results_df["spearman_p_value"] * number_of_tests, 1
-)
-
 results_df["pearson_significant"] = (
-    results_df["pearson_adjusted_p"] < 0.05
+    results_df["pearson_p_value"] < 0.05
 )
 
 results_df["spearman_significant"] = (
-    results_df["spearman_adjusted_p"] < 0.05
+    results_df["spearman_p_value"] < 0.05
 )
 
 results_df.to_csv(
@@ -112,24 +101,22 @@ results_df.to_csv(
     index=False
 )
 
-print("\n========== MULTIPLE TESTING CORRECTION ==========")
-print("Total statistical tests:", number_of_tests)
-print("Bonferroni correction applied.")
+print("\n========== STATISTICAL SIGNIFICANCE ==========")
 
+print("Significance level: 0.05")
 print(
     results_df[
         [
             "variable_1",
             "variable_2",
-            "pearson_adjusted_p",
-            "spearman_adjusted_p",
+            "pearson_p_value",
+            "spearman_p_value",
             "pearson_significant",
             "spearman_significant"
         ]
     ].round(6).to_string(index=False)
 )
 
-# --------------------------------------------------
 # 5. VISUALIZATION
 # --------------------------------------------------
 

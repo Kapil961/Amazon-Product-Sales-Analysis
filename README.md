@@ -19,7 +19,7 @@ The project uses Python, statistical techniques, data visualization, and machine
 - Compare sales performance across product categories.
 - Study the relationship between product price and monthly sales.
 - Investigate the relationship between Best Sellers Rank (BSR) and monthly sales.
-- Apply descriptive statistics, correlation analysis, and category comparison tests.
+- Apply descriptive statistics, correlation analysis, and descriptive category comparisons.
 
 ### Objective 2: Relationship Between Customer Reviews and Product Sales
 
@@ -82,9 +82,7 @@ The project retains the original raw dataset and stores cleaned and processed da
 - Matplotlib
 - Seaborn
 - SciPy
-- Statsmodels
 - Scikit-learn
-- Scikit-posthocs
 - Joblib
 - Jupyter Notebook
 
@@ -94,15 +92,14 @@ The project retains the original raw dataset and stores cleaned and processed da
 - Pearson Correlation
 - Spearman Rank Correlation
 - Hypothesis Testing
-- Bonferroni Correction
-- Kruskal-Wallis Test
-- Dunn Post-hoc Test
+- P-values and Statistical Significance
 - Multiple Linear Regression
 - Ridge Regression
-- Variance Inflation Factor (VIF)
-- Breusch-Pagan Test
-- Residual Analysis
-- Cook's Distance and Influence Analysis
+- Train-Test Split
+- One-Hot Encoding
+- Median Imputation
+- Hyperparameter Tuning
+- Model Evaluation using MAE, RMSE and R-squared
 
 ## Project Results
 
@@ -116,9 +113,8 @@ The project retains the original raw dataset and stores cleaned and processed da
 - BSR vs monthly sales:
   - Pearson correlation: -0.1696
   - Spearman correlation: -0.7345
-- Kruskal-Wallis test: p < 0.001
 
-The results show negative associations between price and sales, and between numerical BSR and sales. The category test indicates differences in sales distributions across categories.
+The results show negative associations between price and sales, and between numerical BSR and sales. Category-wise sales summaries provide descriptive comparisons across eligible product categories. Since products can belong to multiple categories, these comparisons are exploratory.
 
 ### Objective 2: Customer Reviews and Sales
 
@@ -131,9 +127,11 @@ The results show negative associations between price and sales, and between nume
 
 Review counts showed the strongest positive association with monthly sales among the customer-review variables examined.
 
+Objective 2 uses unadjusted p-values with a 0.05 significance threshold. Multiple comparisons should be considered when interpreting statistical significance.
+
 ### Objective 3: Sales Prediction
 
-Three regression models were compared.
+Three regression model approaches were compared during model development. The final selected model is Ridge Regression.
 
 | Model | Test MAE | Test RMSE | Test R² |
 |---|---:|---:|---:|
@@ -190,8 +188,6 @@ Amazon_Product_Sales_Analysis/
 │   ├── inspect_objective_3.py
 │   ├── prepare_objective_3.py
 │   ├── objective_3_regression.py
-│   ├── objective_3_model_diagnostics.py
-│   ├── objective_3_influence_analysis.py
 │   ├── objective_3_model_improvement.py
 │   └── final_objective_3_model.py
 │
@@ -206,7 +202,7 @@ Amazon_Product_Sales_Analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Kapil961/Amazon-Product-Sales-Analysis.git
 ```
 
 ### 2. Open the project folder
@@ -268,8 +264,6 @@ python src/objective_2_reviews_sales.py
 ```bash
 python src/prepare_objective_3.py
 python src/objective_3_regression.py
-python src/objective_3_model_diagnostics.py
-python src/objective_3_influence_analysis.py
 python src/objective_3_model_improvement.py
 python src/final_objective_3_model.py
 ```
